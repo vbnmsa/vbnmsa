@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/.pnpm-store
+/dev.log
+/dev.err.log
 /.pnp
 .pnp.*
 .yarn/*
