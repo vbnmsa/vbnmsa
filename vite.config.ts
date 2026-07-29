@@ -1,5 +1,6 @@
 import vinext from "vinext";
 import { defineConfig } from "vite";
+import { resolve } from "node:path";
 import hostingConfig from "./.openai/hosting.json";
 import { sites } from "./build/sites-vite-plugin";
 
@@ -10,6 +11,7 @@ const { d1, r2 } = hostingConfig;
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
+const isVercel = Boolean(process.env.VERCEL);
 
 const localBindingConfig = {
   main: "./worker/index.ts",
@@ -34,6 +36,19 @@ const localBindingConfig = {
 };
 
 export default defineConfig(async () => {
+  if (isVercel) {
+    const { nitro } = await import("nitro/vite");
+    const { default: tailwindcss } = await import("@tailwindcss/vite");
+    return {
+      resolve: {
+        alias: {
+          "cloudflare:workers": resolve("lib/vercel-cloudflare-workers.ts"),
+        },
+      },
+      plugins: [tailwindcss(), vinext(), nitro()],
+    };
+  }
+
   // Keep Wrangler and Miniflare state project-local. These are non-secret tool
   // settings; application environment belongs in ignored `.env*` files.
   process.env.WRANGLER_WRITE_LOGS ??= "false";
