@@ -1,0 +1,3035 @@
+{
+  "— меньше вещей, больше смысла и свобода от сезонов.": {
+    "en": "- fewer things, more meaning and freedom from seasons.",
+    "zh": "- 更少的东西，更多的意义和不受季节影响的自由。",
+    "pt": "- menos coisas, mais significado e liberdade das estações.",
+    "sr": "- мање ствари, више смисла и слободе од годишњих доба.",
+    "es": "- menos cosas, más significado y libertad de estaciones.",
+    "ar": "- أشياء أقل، معنى أكثر وتحرر من الفصول.",
+    "de": "- weniger Dinge, mehr Bedeutung und Freiheit von Jahreszeiten."
+  },
+  "— от первого": {
+    "en": "- from the first",
+    "zh": "- 从一开始",
+    "pt": "- desde o primeiro",
+    "sr": "- од првог",
+    "es": "- desde el primero",
+    "ar": "- من الأول",
+    "de": "- von Anfang an"
+  },
+  ". Срок рассчитан в рабочих днях.": {
+    "en": ". The period is calculated in working days.",
+    "zh": "。期间以工作日计算。",
+    "pt": ". O prazo é calculado em dias úteis.",
+    "sr": ". Период се рачуна у радним данима.",
+    "es": ". El plazo se calcula en días hábiles.",
+    "ar": ". يتم احتساب الفترة في أيام العمل.",
+    "de": ". Der Zeitraum wird in Werktagen berechnet."
+  },
+  "← Вернуться": {
+    "en": "← Return",
+    "zh": "← 返回",
+    "pt": "← Retorno",
+    "sr": "← Повратак",
+    "es": "← Volver",
+    "ar": "← العودة",
+    "de": "← Zurück"
+  },
+  "← Вернуться в магазин": {
+    "en": "← Return to store",
+    "zh": "← 返回商店",
+    "pt": "← Voltar para loja",
+    "sr": "← Вратите се у продавницу",
+    "es": "← Volver a la tienda",
+    "ar": "← العودة إلى المتجر",
+    "de": "← Zurück zum Geschäft"
+  },
+  "← Назад": {
+    "en": "← Back",
+    "zh": "← 返回",
+    "pt": "← Voltar",
+    "sr": "← Назад",
+    "es": "← Volver",
+    "ar": "← العودة",
+    "de": "← Zurück"
+  },
+  "← Продолжить покупки": {
+    "en": "← Continue shopping",
+    "zh": "← 继续购物",
+    "pt": "← Continuar comprando",
+    "sr": "← Наставите са куповином",
+    "es": "← Continuar comprando",
+    "ar": "← مواصلة التسوق",
+    "de": "← Weiter einkaufen"
+  },
+  "+ Добавить товар": {
+    "en": "+ Add product",
+    "zh": "+ 添加产品",
+    "pt": "+ Adicionar produto",
+    "sr": "+ Додајте производ",
+    "es": "+ Agregar producto",
+    "ar": "+ إضافة منتج",
+    "de": "+ Produkt hinzufügen"
+  },
+  "5 из 5 звёзд": {
+    "en": "5 out of 5 stars",
+    "zh": "5 颗星（满分 5 颗星）",
+    "pt": "5 de 5 estrelas",
+    "sr": "5 од 5 звездица",
+    "es": "5 de 5 estrellas",
+    "ar": "5 من أصل 5 نجوم",
+    "de": "5 von 5 Sternen"
+  },
+  "Адрес доставки": {
+    "en": "Delivery address",
+    "zh": "送货地址",
+    "pt": "Endereço de entrega",
+    "sr": "Адреса за доставу",
+    "es": "Dirección de entrega",
+    "ar": "عنوان التسليم",
+    "de": "Lieferadresse"
+  },
+  "Аккаунт владельца": {
+    "en": "Owner account",
+    "zh": "业主账户",
+    "pt": "Conta do proprietário",
+    "sr": "Власнички рачун",
+    "es": "cuenta de propietario",
+    "ar": "حساب المالك",
+    "de": "Besitzerkonto"
+  },
+  "Аккаунт владельца создан.": {
+    "en": "The owner's account has been created.",
+    "zh": "所有者的帐户已创建。",
+    "pt": "A conta do proprietário foi criada.",
+    "sr": "Власнички налог је креиран.",
+    "es": "Se ha creado la cuenta del propietario.",
+    "ar": "تم إنشاء حساب المالك.",
+    "de": "Das Konto des Eigentümers wurde erstellt."
+  },
+  "Активен": {
+    "en": "Active",
+    "zh": "积极的",
+    "pt": "Ativo",
+    "sr": "Активан",
+    "es": "Activo",
+    "ar": "نشيط",
+    "de": "Aktiv"
+  },
+  "Активные": {
+    "en": "Active",
+    "zh": "积极的",
+    "pt": "Ativo",
+    "sr": "Активан",
+    "es": "Activo",
+    "ar": "نشيط",
+    "de": "Aktiv"
+  },
+  "Артикул": {
+    "en": "Article",
+    "zh": "文章",
+    "pt": "Artigo",
+    "sr": "Чланак",
+    "es": "Artículo",
+    "ar": "شرط",
+    "de": "Artikel"
+  },
+  "Артикул:": {
+    "en": "Article:",
+    "zh": "文章：",
+    "pt": "Artigo:",
+    "sr": "Чланак:",
+    "es": "Artículo:",
+    "ar": "شرط:",
+    "de": "Artikel:"
+  },
+  "Архитектурное двубортное пальто с мягкой линией плеча. Плотная итальянская шерсть дополнена кашемиром, а подкладка из вискозы обеспечивает комфорт в движении.": {
+    "en": "Architectural double-breasted coat with soft shoulder line. Thick Italian wool is complemented by cashmere, and a viscose lining provides comfort on the move.",
+    "zh": "建筑风格双排扣外套，肩线柔和。厚实的意大利羊毛与羊绒相得益彰，粘胶衬里让您在行动中倍感舒适。",
+    "pt": "Casaco trespassado arquitetônico com linha suave nos ombros. A espessa lã italiana é complementada por caxemira e o forro de viscose proporciona conforto em movimento.",
+    "sr": "Архитектонски дупли капут са меком линијом рамена. Густа италијанска вуна допуњена је кашмиром, а вискозна подстава пружа удобност у покрету.",
+    "es": "Abrigo arquitectónico cruzado con línea suave en los hombros. La gruesa lana italiana se complementa con cachemira y el forro de viscosa brinda comodidad en movimiento.",
+    "ar": "معطف معماري مزدوج الصدر مع خط كتف ناعم. ويكتمل الصوف الإيطالي السميك بالكشمير، وتوفر بطانة الفيسكوز الراحة أثناء الحركة.",
+    "de": "Architektonischer zweireihiger Mantel mit weicher Schulterlinie. Dicke italienische Wolle wird durch Kaschmir ergänzt und ein Viskosefutter sorgt für Komfort unterwegs."
+  },
+  "Бёдра": {
+    "en": "Hips",
+    "zh": "臀部",
+    "pt": "Quadris",
+    "sr": "Кукови",
+    "es": "Caderas",
+    "ar": "خَواصِر",
+    "de": "Hüften"
+  },
+  "Безопасное оформление · Возврат в течение 30 дней": {
+    "en": "Secure checkout · Return within 30 days",
+    "zh": "安全结帐 · 30 天内退货",
+    "pt": "Finalização segura · Devolução em até 30 dias",
+    "sr": "Сигурно плаћање · Вратите у року од 30 дана",
+    "es": "Pago seguro · Devolución dentro de 30 días",
+    "ar": "الخروج الآمن · العودة في غضون 30 يوما",
+    "de": "Sichere Kaufabwicklung · Rückgabe innerhalb von 30 Tagen"
+  },
+  "Безопасность": {
+    "en": "Safety",
+    "zh": "安全",
+    "pt": "Segurança",
+    "sr": "Сигурност",
+    "es": "Seguridad",
+    "ar": "أمان",
+    "de": "Sicherheit"
+  },
+  "Берлин": {
+    "en": "Berlin",
+    "zh": "柏林",
+    "pt": "Berlim",
+    "sr": "Берлин",
+    "es": "Berlina",
+    "ar": "برلين",
+    "de": "Berlin"
+  },
+  "Берлин, Германия": {
+    "en": "Berlin, Germany",
+    "zh": "德国柏林",
+    "pt": "Berlim, Alemanha",
+    "sr": "Берлин, Немачка",
+    "es": "Berlín, Alemania",
+    "ar": "برلين، ألمانيا",
+    "de": "Berlin, Deutschland"
+  },
+  "Бесплатно": {
+    "en": "For free",
+    "zh": "免费",
+    "pt": "De graça",
+    "sr": "Бесплатно",
+    "es": "gratis",
+    "ar": "مجانا",
+    "de": "Kostenlos"
+  },
+  "брюки": {
+    "en": "trousers",
+    "zh": "裤子",
+    "pt": "calça",
+    "sr": "панталоне",
+    "es": "pantalones",
+    "ar": "بنطلون",
+    "de": "Hose"
+  },
+  "Брюки свободного кроя с высокой посадкой и точными защипами. Итальянская шерсть держит линию и остаётся комфортной в течение дня.": {
+    "en": "Loose-fitting trousers with a high waist and precise pintucks. Italian wool holds the line and remains comfortable throughout the day.",
+    "zh": "宽松长裤，高腰，精致细褶。意大利羊毛保持线条，全天保持舒适。",
+    "pt": "Calças largas com cintura alta e nervuras precisas. A lã italiana mantém a linha e permanece confortável durante todo o dia.",
+    "sr": "Панталоне слободног кроја са високим струком и прецизним убадањима. Италијанска вуна држи линију и остаје удобна током целог дана.",
+    "es": "Pantalón amplio con cintura alta y pliegues precisos. La lana italiana mantiene la línea y sigue siendo cómoda durante todo el día.",
+    "ar": "بنطلون فضفاض بخصر عالي وتفاصيل دقيقة. يحافظ الصوف الإيطالي على الخط ويظل مريحًا طوال اليوم.",
+    "de": "Locker sitzende Hose mit hoher Taille und präzisen Biesen. Italienische Wolle hält die Linie und bleibt den ganzen Tag über bequem."
+  },
+  "Брюки стали основой гардероба: подходят и для работы, и для вечера. Доставка была быстрой и аккуратной.": {
+    "en": "Trousers have become the basis of the wardrobe: suitable for work and for the evening. Delivery was fast and accurate.",
+    "zh": "裤子已成为衣柜的基础：适合工作和晚装。交货快速而准确。",
+    "pt": "As calças tornaram-se a base do guarda-roupa: adequadas para o trabalho e para a noite. A entrega foi rápida e precisa.",
+    "sr": "Панталоне су постале основа гардеробе: погодне за рад и за вече. Достава је била брза и тачна.",
+    "es": "Los pantalones se han convertido en la base del armario: adecuados para el trabajo y la noche. La entrega fue rápida y precisa.",
+    "ar": "أصبحت السراويل أساس خزانة الملابس: مناسبة للعمل وفي المساء. كان التسليم سريعًا ودقيقًا.",
+    "de": "Hosen sind zur Basis der Garderobe geworden: geeignet für die Arbeit und für den Abend. Die Lieferung erfolgte schnell und genau."
+  },
+  "Брюки Architect": {
+    "en": "Architect trousers",
+    "zh": "建筑师长裤",
+    "pt": "Calças de arquiteto",
+    "sr": "Архитектске панталоне",
+    "es": "Pantalón arquitecto",
+    "ar": "سراويل المهندس المعماري",
+    "de": "Architektenhose"
+  },
+  "В избранное": {
+    "en": "Add to favorites",
+    "zh": "添加到收藏夹",
+    "pt": "Adicionar aos favoritos",
+    "sr": "Додај у фаворите",
+    "es": "Añadir a favoritos",
+    "ar": "أضف إلى المفضلة",
+    "de": "Zu Favoriten hinzufügen"
+  },
+  "В избранном": {
+    "en": "In favorites",
+    "zh": "在收藏夹中",
+    "pt": "Nos favoritos",
+    "sr": "У фаворите",
+    "es": "en favoritos",
+    "ar": "في المفضلة",
+    "de": "In Favoriten"
+  },
+  "В московской студии архитектура, движение и тактильная красота материалов из Копенгагена помогают нам создавать актуальный и долговечный гардероб.": {
+    "en": "In our Moscow studio, the architecture, movement and tactile beauty of materials from Copenhagen help us create a wardrobe that is relevant and lasting.",
+    "zh": "在我们的莫斯科工作室，哥本哈根材料的结构、运动和触感之美帮助我们打造出实用且持久的衣柜。",
+    "pt": "No nosso estúdio em Moscovo, a arquitetura, o movimento e a beleza tátil dos materiais de Copenhaga ajudam-nos a criar um guarda-roupa relevante e duradouro.",
+    "sr": "У нашем московском студију, архитектура, покрет и тактилна лепота материјала из Копенхагена помажу нам да креирамо гардеробу која је релевантна и трајна.",
+    "es": "En nuestro estudio de Moscú, la arquitectura, el movimiento y la belleza táctil de los materiales de Copenhague nos ayudan a crear un guardarropa relevante y duradero.",
+    "ar": "في الاستوديو الخاص بنا في موسكو، تساعدنا الهندسة المعمارية والحركة والجمال الملموس للمواد من كوبنهاغن على إنشاء خزانة ملابس ذات صلة ودائمة.",
+    "de": "In unserem Moskauer Studio helfen uns die Architektur, die Bewegung und die haptische Schönheit der Materialien aus Kopenhagen dabei, eine Garderobe zu kreieren, die relevant und langlebig ist."
+  },
+  "В московской студии конструктор переводит эскиз в точные лекала. Несколько макетов и примерок помогают найти пропорции, которые красиво выглядят и не ограничивают движение.": {
+    "en": "In the Moscow studio, the designer translates the sketch into precise patterns. Several mock-ups and fittings help you find proportions that look good and don't restrict movement.",
+    "zh": "在莫斯科工作室，设计师将草图转化为精确的图案。一些模型和试穿可帮助您找到看起来不错且不限制活动的比例。",
+    "pt": "No estúdio de Moscou, o designer traduz o esboço em padrões precisos. Vários modelos e acessórios ajudam você a encontrar proporções que pareçam boas e não restrinjam os movimentos.",
+    "sr": "У московском студију, дизајнер преводи скицу у прецизне обрасце. Неколико макета и окова вам помаже да пронађете пропорције које изгледају добро и не ограничавају кретање.",
+    "es": "En el estudio de Moscú, el diseñador traduce el boceto en patrones precisos. Varias maquetas y accesorios te ayudarán a encontrar proporciones que luzcan bien y no restrinjan el movimiento.",
+    "ar": "وفي استوديو موسكو، يقوم المصمم بترجمة الرسم إلى أنماط دقيقة. تساعدك العديد من النماذج والتجهيزات في العثور على النسب التي تبدو جيدة ولا تقيد الحركة.",
+    "de": "Im Moskauer Studio übersetzt der Designer die Skizze in präzise Muster. Mehrere Modelle und Anproben helfen Ihnen dabei, Proportionen zu finden, die gut aussehen und die Bewegungsfreiheit nicht einschränken."
+  },
+  "В наличии": {
+    "en": "In stock",
+    "zh": "有存货",
+    "pt": "Em estoque",
+    "sr": "На лагеру",
+    "es": "En stock",
+    "ar": "في الأوراق المالية",
+    "de": "Auf Lager"
+  },
+  "Ваш выбор": {
+    "en": "Your choice",
+    "zh": "您的选择",
+    "pt": "Sua escolha",
+    "sr": "Ваш избор",
+    "es": "Tu elección",
+    "ar": "اختيارك",
+    "de": "Ihre Wahl"
+  },
+  "Введите город и страну — мы автоматически выберем склад в Москве или Копенгагене и рассчитаем срок.": {
+    "en": "Enter the city and country - we will automatically select a warehouse in Moscow or Copenhagen and calculate the deadline.",
+    "zh": "输入城市和国家 - 我们将自动选择莫斯科或哥本哈根的仓库并计算截止日期。",
+    "pt": "Insira a cidade e o país - selecionaremos automaticamente um armazém em Moscou ou Copenhague e calcularemos o prazo.",
+    "sr": "Унесите град и државу - аутоматски ћемо изабрати складиште у Москви или Копенхагену и израчунати рок.",
+    "es": "Ingrese la ciudad y el país; seleccionaremos automáticamente un almacén en Moscú o Copenhague y calcularemos la fecha límite.",
+    "ar": "أدخل المدينة والبلد - سنختار تلقائيًا مستودعًا في موسكو أو كوبنهاغن ونحسب الموعد النهائي.",
+    "de": "Geben Sie Stadt und Land ein – wir wählen automatisch ein Lager in Moskau oder Kopenhagen aus und berechnen die Frist."
+  },
+  "Введите данные защищённого аккаунта.": {
+    "en": "Enter your secure account details.",
+    "zh": "输入您的安全帐户详细信息。",
+    "pt": "Insira os detalhes da sua conta segura.",
+    "sr": "Унесите податке о свом безбедном налогу.",
+    "es": "Ingrese los detalles seguros de su cuenta.",
+    "ar": "أدخل تفاصيل حسابك الآمن.",
+    "de": "Geben Sie Ihre sicheren Kontodaten ein."
+  },
+  "Введите корректную почту и пароль не короче 12 символов.": {
+    "en": "Enter the correct email and password of at least 12 characters.",
+    "zh": "输入至少 12 个字符的正确电子邮件和密码。",
+    "pt": "Digite o e-mail e a senha corretos de pelo menos 12 caracteres.",
+    "sr": "Унесите тачну адресу е-поште и лозинку од најмање 12 знакова.",
+    "es": "Ingrese el correo electrónico correcto y la contraseña de al menos 12 caracteres.",
+    "ar": "أدخل البريد الإلكتروني الصحيح وكلمة المرور المكونة من 12 حرفًا على الأقل.",
+    "de": "Geben Sie die korrekte E-Mail-Adresse und das Passwort mit mindestens 12 Zeichen ein."
+  },
+  "Вернуться к коллекции": {
+    "en": "Return to collection",
+    "zh": "返回收藏",
+    "pt": "Voltar para a coleção",
+    "sr": "Вратите се у колекцију",
+    "es": "Volver a la colección",
+    "ar": "العودة إلى المجموعة",
+    "de": "Zurück zur Sammlung"
+  },
+  "Вернуться на главную": {
+    "en": "Return to home",
+    "zh": "返回家中",
+    "pt": "Voltar para casa",
+    "sr": "Вратите се кући",
+    "es": "volver a casa",
+    "ar": "العودة إلى المنزل",
+    "de": "Rückkehr nach Hause"
+  },
+  "верхняя одежда": {
+    "en": "outerwear",
+    "zh": "外套",
+    "pt": "agasalhos",
+    "sr": "горња одећа",
+    "es": "ropa de calle",
+    "ar": "ملابس خارجية",
+    "de": "Oberbekleidung"
+  },
+  "вечернее": {
+    "en": "evening",
+    "zh": "晚上",
+    "pt": "noite",
+    "sr": "вече",
+    "es": "noche",
+    "ar": "مساء",
+    "de": "Abend"
+  },
+  "Видны покупателям": {
+    "en": "Visible to customers",
+    "zh": "客户可见",
+    "pt": "Visível para os clientes",
+    "sr": "Видљиво купцима",
+    "es": "Visible para los clientes",
+    "ar": "مرئية للعملاء",
+    "de": "Sichtbar für Kunden"
+  },
+  "Владелец уже зарегистрирован.": {
+    "en": "The owner is already registered.",
+    "zh": "楼主已经注册了。",
+    "pt": "O proprietário já está cadastrado.",
+    "sr": "Власник је већ регистрован.",
+    "es": "El propietario ya está registrado.",
+    "ar": "تم تسجيل المالك بالفعل.",
+    "de": "Der Eigentümer ist bereits registriert."
+  },
+  "Войти": {
+    "en": "Login",
+    "zh": "登录",
+    "pt": "Conecte-se",
+    "sr": "Логин",
+    "es": "Acceso",
+    "ar": "تسجيل الدخول",
+    "de": "Login"
+  },
+  "Волокна, выбранные за тактильность, драпировку и способность красиво стареть.": {
+    "en": "Fibers chosen for tactility, drape and ability to age gracefully.",
+    "zh": "所选择的纤维具有触感、悬垂性和优雅的老化能力。",
+    "pt": "Fibras escolhidas pelo tato, caimento e capacidade de envelhecer graciosamente.",
+    "sr": "Влакна одабрана због тактилности, драперије и способности да грациозно старе.",
+    "es": "Fibras elegidas por su tacto, caída y capacidad de envejecer con gracia.",
+    "ar": "تم اختيار الألياف من أجل الملمس والثني والقدرة على التقدم في العمر برشاقة.",
+    "de": "Fasern, die aufgrund ihrer Haptik, ihres Faltenwurfs und ihrer Fähigkeit, elegant zu altern, ausgewählt wurden."
+  },
+  "Вопросы": {
+    "en": "Questions",
+    "zh": "问题",
+    "pt": "Questões",
+    "sr": "Питања",
+    "es": "Preguntas",
+    "ar": "أسئلة",
+    "de": "Fragen"
+  },
+  "Все позиции каталога": {
+    "en": "All catalog items",
+    "zh": "所有目录项",
+    "pt": "Todos os itens do catálogo",
+    "sr": "Сви артикли из каталога",
+    "es": "Todos los artículos del catálogo",
+    "ar": "جميع عناصر الكتالوج",
+    "de": "Alle Katalogartikel"
+  },
+  "Все статусы": {
+    "en": "All statuses",
+    "zh": "所有状态",
+    "pt": "Todos os status",
+    "sr": "Сви статуси",
+    "es": "Todos los estados",
+    "ar": "جميع الحالات",
+    "de": "Alle Status"
+  },
+  "Все товары →": {
+    "en": "All products →",
+    "zh": "所有产品 →",
+    "pt": "Todos os produtos →",
+    "sr": "Сви производи →",
+    "es": "Todos los productos →",
+    "ar": "جميع المنتجات →",
+    "de": "Alle Produkte →"
+  },
+  "Всего товаров": {
+    "en": "Total products",
+    "zh": "产品总数",
+    "pt": "Total de produtos",
+    "sr": "Укупни производи",
+    "es": "Productos totales",
+    "ar": "إجمالي المنتجات",
+    "de": "Gesamtprodukte"
+  },
+  "Вся одежда": {
+    "en": "All clothes",
+    "zh": "所有衣服",
+    "pt": "Todas as roupas",
+    "sr": "Сва одећа",
+    "es": "toda la ropa",
+    "ar": "جميع الملابس",
+    "de": "Alle Klamotten"
+  },
+  "Вся одежда.": {
+    "en": "All clothes.",
+    "zh": "所有衣服。",
+    "pt": "Todas as roupas.",
+    "sr": "Сва одећа.",
+    "es": "Toda la ropa.",
+    "ar": "جميع الملابس.",
+    "de": "Alle Klamotten."
+  },
+  "Вход владельца": {
+    "en": "Owner Login",
+    "zh": "业主登录",
+    "pt": "Login do proprietário",
+    "sr": "Овнер Логин",
+    "es": "Inicio de sesión de propietario",
+    "ar": "تسجيل دخول المالك",
+    "de": "Besitzer-Login"
+  },
+  "Вход выполнен.": {
+    "en": "Login is complete.",
+    "zh": "登录完成。",
+    "pt": "O login foi concluído.",
+    "sr": "Пријава је завршена.",
+    "es": "El inicio de sesión está completo.",
+    "ar": "اكتمل تسجيل الدخول.",
+    "de": "Die Anmeldung ist abgeschlossen."
+  },
+  "Вы доставляете за границу?": {
+    "en": "Do you deliver abroad?",
+    "zh": "你们在国外送货吗？",
+    "pt": "Você entrega no exterior?",
+    "sr": "Да ли испоручујете у иностранству?",
+    "es": "¿Hacen entregas en el extranjero?",
+    "ar": "هل تقومون بالتوصيل للخارج؟",
+    "de": "Liefern Sie ins Ausland?"
+  },
+  "Выберите изображение.": {
+    "en": "Select an image.",
+    "zh": "选择一个图像。",
+    "pt": "Selecione uma imagem.",
+    "sr": "Изаберите слику.",
+    "es": "Seleccione una imagen.",
+    "ar": "حدد صورة.",
+    "de": "Wählen Sie ein Bild aus."
+  },
+  "Выберите размер": {
+    "en": "Select size",
+    "zh": "选择尺码",
+    "pt": "Selecione o tamanho",
+    "sr": "Изаберите величину",
+    "es": "Selecciona talla",
+    "ar": "اختر الحجم",
+    "de": "Größe auswählen"
+  },
+  "Выберите российский размер": {
+    "en": "Select Russian size",
+    "zh": "选择俄罗斯尺码",
+    "pt": "Selecione o tamanho russo",
+    "sr": "Изаберите руску величину",
+    "es": "Selecciona talla rusa",
+    "ar": "حدد الحجم الروسي",
+    "de": "Wählen Sie die russische Größe"
+  },
+  "Выбор языка": {
+    "en": "Language selection",
+    "zh": "语言选择",
+    "pt": "Seleção de idioma",
+    "sr": "Избор језика",
+    "es": "Selección de idioma",
+    "ar": "اختيار اللغة",
+    "de": "Sprachauswahl"
+  },
+  "Выбор LUNE": {
+    "en": "LUNE selection",
+    "zh": "月相选择",
+    "pt": "Seleção LUNA",
+    "sr": "Избор ЛУНЕ",
+    "es": "Selección LUNA",
+    "ar": "اختيار لون",
+    "de": "LUNE-Auswahl"
+  },
+  "Выбрать язык": {
+    "en": "Select language",
+    "zh": "选择语言",
+    "pt": "Selecione o idioma",
+    "sr": "Изаберите језик",
+    "es": "Seleccionar idioma",
+    "ar": "اختر اللغة",
+    "de": "Sprache auswählen"
+  },
+  "Выйти": {
+    "en": "Log out",
+    "zh": "退出",
+    "pt": "Sair",
+    "sr": "Одјавите се",
+    "es": "Finalizar la sesión",
+    "ar": "تسجيل الخروج",
+    "de": "Abmelden"
+  },
+  "Выйти из CMS": {
+    "en": "Exit CMS",
+    "zh": "退出CMS",
+    "pt": "Sair do CMS",
+    "sr": "Изађите из ЦМС-а",
+    "es": "Salir del CMS",
+    "ar": "الخروج من نظام إدارة المحتوى",
+    "de": "Beenden Sie CMS"
+  },
+  "Гардероб, созданный сдержанно и рассчитанный на долгую жизнь.": {
+    "en": "A wardrobe designed with discretion and built to last.",
+    "zh": "精心设计、经久耐用的衣柜。",
+    "pt": "Um guarda-roupa desenhado com discrição e construído para durar.",
+    "sr": "Ормар дизајниран са дискрецијом и направљен да траје.",
+    "es": "Un armario diseñado con discreción y construido para durar.",
+    "ar": "خزانة ملابس مصممة بعناية ومصممة لتدوم طويلاً.",
+    "de": "Ein Kleiderschrank, der mit Diskretion entworfen und auf Langlebigkeit ausgelegt ist."
+  },
+  "Где производится одежда LUNE?": {
+    "en": "Where are LUNE clothes made?",
+    "zh": "LUNE 衣服是哪里生产的？",
+    "pt": "Onde são feitas as roupas LUNE?",
+    "sr": "Где се производи ЛУНЕ одећа?",
+    "es": "¿Dónde se confecciona la ropa LUNE?",
+    "ar": "أين تُصنع ملابس LUNE؟",
+    "de": "Wo wird LUNE-Kleidung hergestellt?"
+  },
+  "Главная": {
+    "en": "Home",
+    "zh": "家",
+    "pt": "Lar",
+    "sr": "Хоме",
+    "es": "Hogar",
+    "ar": "بيت",
+    "de": "Heim"
+  },
+  "Глубокий графит": {
+    "en": "Deep graphite",
+    "zh": "深石墨",
+    "pt": "Grafite profundo",
+    "sr": "Дубоки графит",
+    "es": "Grafito profundo",
+    "ar": "الجرافيت العميق",
+    "de": "Tiefer Graphit"
+  },
+  "Говорят клиенты": {
+    "en": "Clients say",
+    "zh": "客户说",
+    "pt": "Os clientes dizem",
+    "sr": "Клијенти кажу",
+    "es": "Los clientes dicen",
+    "ar": "يقول العملاء",
+    "de": "Kunden sagen"
+  },
+  "Город, улица, дом, квартира, страна": {
+    "en": "City, street, house, apartment, country",
+    "zh": "城市、街道、房屋、公寓、乡村",
+    "pt": "Cidade, rua, casa, apartamento, país",
+    "sr": "Град, улица, кућа, стан, држава",
+    "es": "Ciudad, calle, casa, apartamento, país.",
+    "ar": "المدينة، الشارع، المنزل، الشقة، البلد",
+    "de": "Stadt, Straße, Haus, Wohnung, Land"
+  },
+  "Горячая линия": {
+    "en": "Hotline",
+    "zh": "热线",
+    "pt": "Linha direta",
+    "sr": "Хотлине",
+    "es": "Línea directa",
+    "ar": "الخط الساخن",
+    "de": "Hotline"
+  },
+  "Готовое изделие отпаривают, измеряют и проверяют в московской студии при разном освещении. Только вещи безупречного качества получают финальную этикетку LUNE.": {
+    "en": "The finished product is steamed, measured and checked in a Moscow studio under different lighting conditions. Only items of impeccable quality receive the final LUNE label.",
+    "zh": "成品在莫斯科工作室在不同的照明条件下进行蒸煮、测量和检查。只有品质无可挑剔的商品才会获得最终的 LUNE 标签。",
+    "pt": "O produto acabado é cozido no vapor, medido e verificado em um estúdio em Moscou sob diferentes condições de iluminação. Somente itens de qualidade impecável recebem o selo final LUNE.",
+    "sr": "Готов производ се пари, мери и проверава у московском студију под различитим условима осветљења. Само артикли беспрекорног квалитета добијају коначну ознаку ЛУНЕ.",
+    "es": "El producto acabado se cuece al vapor, se mide y se controla en un estudio de Moscú bajo diferentes condiciones de iluminación. Sólo los artículos de calidad impecable reciben la etiqueta LUNE final.",
+    "ar": "يتم تبخير المنتج النهائي وقياسه وفحصه في استوديو بموسكو تحت ظروف إضاءة مختلفة. فقط العناصر ذات الجودة التي لا تشوبها شائبة هي التي تحصل على علامة LUNE النهائية.",
+    "de": "Das fertige Produkt wird in einem Moskauer Studio unter verschiedenen Lichtbedingungen gedämpft, vermessen und überprüft. Nur Artikel von einwandfreier Qualität erhalten das endgültige LUNE-Label."
+  },
+  "Грудь": {
+    "en": "Breast",
+    "zh": "胸部",
+    "pt": "Seios",
+    "sr": "Груди",
+    "es": "Mama",
+    "ar": "صدر",
+    "de": "Brust"
+  },
+  "Да, мы отправляем заказы по всему миру. Стоимость и сроки рассчитываются при оформлении заказа.": {
+    "en": "Yes, we ship orders worldwide. Cost and terms are calculated when placing an order.",
+    "zh": "是的，我们在全球范围内运送订单。成本和条款是在下订单时计算的。",
+    "pt": "Sim, enviamos pedidos para todo o mundo. O custo e os prazos são calculados ao fazer um pedido.",
+    "sr": "Да, шаљемо поруџбине широм света. Цена и услови се обрачунавају приликом наручивања.",
+    "es": "Sí, enviamos pedidos a todo el mundo. El costo y los términos se calculan al realizar un pedido.",
+    "ar": "نعم، نقوم بشحن الطلبات إلى جميع أنحاء العالم. يتم احتساب التكلفة والشروط عند تقديم الطلب.",
+    "de": "Ja, wir versenden Bestellungen weltweit. Kosten und Konditionen werden bei der Bestellung berechnet."
+  },
+  "Детали раскраивают и соединяют вручную на специализированном оборудовании. Мастер контролирует натяжение нити, посадку и чистоту каждого шва.": {
+    "en": "The parts are cut and joined manually using specialized equipment. The master controls the thread tension, fit and cleanliness of each seam.",
+    "zh": "使用专用设备手动切割和连接零件。师傅控制每条接缝的线张力、贴合度和清洁度。",
+    "pt": "As peças são cortadas e unidas manualmente através de equipamentos especializados. O mestre controla a tensão da linha, o ajuste e a limpeza de cada costura.",
+    "sr": "Делови се секу и спајају ручно помоћу специјализоване опреме. Мајстор контролише напетост конца, уклапање и чистоћу сваког шава.",
+    "es": "Las piezas se cortan y unen manualmente mediante equipos especializados. El maestro controla la tensión del hilo, el ajuste y la limpieza de cada costura.",
+    "ar": "يتم قطع الأجزاء وربطها يدويًا باستخدام معدات متخصصة. يتحكم السيد في شد الخيط وملاءمته ونظافة كل خط.",
+    "de": "Die Teile werden manuell mit Spezialgeräten geschnitten und zusammengefügt. Der Meister kontrolliert die Fadenspannung, den Sitz und die Sauberkeit jeder Naht."
+  },
+  "джемпер": {
+    "en": "jumper",
+    "zh": "毛衣",
+    "pt": "saltador",
+    "sr": "џемпер",
+    "es": "saltador",
+    "ar": "الطائر",
+    "de": "Jumper"
+  },
+  "Джемпер Soft Structure": {
+    "en": "Jumper Soft Structure",
+    "zh": "跳线软结构",
+    "pt": "Estrutura macia do jumper",
+    "sr": "Мекана структура џемпера",
+    "es": "Puente de estructura suave.",
+    "ar": "هيكل الطائر الناعم",
+    "de": "Pullover mit weicher Struktur"
+  },
+  "Для ваших": {
+    "en": "For your",
+    "zh": "为了你的",
+    "pt": "Para o seu",
+    "sr": "За твоје",
+    "es": "Para tu",
+    "ar": "من أجلك",
+    "de": "Für Ihr"
+  },
+  "до 8 МБ": {
+    "en": "up to 8 MB",
+    "zh": "最大 8 MB",
+    "pt": "até 8 MB",
+    "sr": "до 8 МБ",
+    "es": "hasta 8 MB",
+    "ar": "ما يصل إلى 8 ميغابايت",
+    "de": "bis zu 8 MB"
+  },
+  "Добавить в корзину": {
+    "en": "Add to cart",
+    "zh": "添加到购物车",
+    "pt": "Adicionar ao carrinho",
+    "sr": "Додај у корпу",
+    "es": "Añadir a la cesta",
+    "ar": "أضف إلى السلة",
+    "de": "In den Warenkorb legen"
+  },
+  "Добавить товар": {
+    "en": "Add product",
+    "zh": "添加产品",
+    "pt": "Adicionar produto",
+    "sr": "Додајте производ",
+    "es": "Añadir producto",
+    "ar": "أضف المنتج",
+    "de": "Produkt hinzufügen"
+  },
+  "Добавить фото": {
+    "en": "Add a photo",
+    "zh": "添加照片",
+    "pt": "Adicione uma foto",
+    "sr": "Додајте фотографију",
+    "es": "Añadir una foto",
+    "ar": "أضف صورة",
+    "de": "Fügen Sie ein Foto hinzu"
+  },
+  "Добавьте вещи из коллекции, и они появятся в вашей корзине.": {
+    "en": "Add items from the collection and they will appear in your cart.",
+    "zh": "添加收藏中的商品，它们将出现在您的购物车中。",
+    "pt": "Adicione itens da coleção e eles aparecerão no seu carrinho.",
+    "sr": "Додајте артикле из колекције и они ће се појавити у вашој корпи.",
+    "es": "Añade artículos de la colección y aparecerán en tu carrito.",
+    "ar": "أضف عناصر من المجموعة وسوف تظهر في سلة التسوق الخاصة بك.",
+    "de": "Fügen Sie Artikel aus der Sammlung hinzu und sie werden in Ihrem Warenkorb angezeigt."
+  },
+  "Добавьте подробное описание.": {
+    "en": "Add a detailed description.",
+    "zh": "添加详细描述。",
+    "pt": "Adicione uma descrição detalhada.",
+    "sr": "Додајте детаљан опис.",
+    "es": "Añade una descripción detallada.",
+    "ar": "أضف وصفًا تفصيليًا.",
+    "de": "Fügen Sie eine detaillierte Beschreibung hinzu."
+  },
+  "Добавьте хотя бы одну фотографию.": {
+    "en": "Add at least one photo.",
+    "zh": "添加至少一张照片。",
+    "pt": "Adicione pelo menos uma foto.",
+    "sr": "Додајте најмање једну фотографију.",
+    "es": "Añade al menos una foto.",
+    "ar": "أضف صورة واحدة على الأقل.",
+    "de": "Fügen Sie mindestens ein Foto hinzu."
+  },
+  "Добрый день": {
+    "en": "Good afternoon",
+    "zh": "下午好",
+    "pt": "Boa tarde",
+    "sr": "Добар дан",
+    "es": "Buenas tardes",
+    "ar": "مساء الخير",
+    "de": "Guten Tag"
+  },
+  "Долгое присутствие.": {
+    "en": "Long presence.",
+    "zh": "长期存在。",
+    "pt": "Presença prolongada.",
+    "sr": "Дуго присуство.",
+    "es": "Larga presencia.",
+    "ar": "حضور طويل.",
+    "de": "Lange Präsenz."
+  },
+  "Доставка": {
+    "en": "Delivery",
+    "zh": "送货",
+    "pt": "Entrega",
+    "sr": "Испорука",
+    "es": "Entrega",
+    "ar": "توصيل",
+    "de": "Lieferung"
+  },
+  "Доставка и возврат": {
+    "en": "Delivery and returns",
+    "zh": "交货和退货",
+    "pt": "Entrega e devoluções",
+    "sr": "Достава и враћање",
+    "es": "Entrega y devoluciones",
+    "ar": "التسليم والإرجاع",
+    "de": "Lieferung und Rückgabe"
+  },
+  "Доставка по всему миру. Бесплатный возврат неношеных изделий доступен в течение 30 дней.": {
+    "en": "Worldwide delivery. Free returns on unworn items are available within 30 days.",
+    "zh": "全球交付。未穿过的商品可在 30 天内免费退货。",
+    "pt": "Entrega em todo o mundo. Devoluções gratuitas de itens não usados ​​estão disponíveis em 30 dias.",
+    "sr": "Достава широм света. Бесплатан повраћај неношених предмета доступан је у року од 30 дана.",
+    "es": "Entrega mundial. Las devoluciones gratuitas de artículos no usados ​​están disponibles dentro de los 30 días.",
+    "ar": "التسليم في جميع أنحاء العالم. تتوفر إمكانية إرجاع العناصر غير الملبوسة مجانًا خلال 30 يومًا.",
+    "de": "Weltweite Lieferung. Eine kostenlose Rücksendung ungetragener Artikel ist innerhalb von 30 Tagen möglich."
+  },
+  "Другое": {
+    "en": "Other",
+    "zh": "其他",
+    "pt": "Outro",
+    "sr": "Остало",
+    "es": "Otro",
+    "ar": "آخر",
+    "de": "Andere"
+  },
+  "ежедневных ритуалов.": {
+    "en": "daily rituals.",
+    "zh": "日常仪式。",
+    "pt": "rituais diários.",
+    "sr": "дневни ритуали.",
+    "es": "rituales diarios.",
+    "ar": "الطقوس اليومية.",
+    "de": "tägliche Rituale."
+  },
+  "Журнал LUNE": {
+    "en": "LUNE Magazine",
+    "zh": "月亮杂志",
+    "pt": "Revista LUNA",
+    "sr": "ЛУНЕ Магазине",
+    "es": "Revista LUNA",
+    "ar": "مجلة لون",
+    "de": "LUNE-Magazin"
+  },
+  "Завершение": {
+    "en": "Completion",
+    "zh": "完成",
+    "pt": "Conclusão",
+    "sr": "Завршетак",
+    "es": "Terminación",
+    "ar": "انتهاء",
+    "de": "Fertigstellung"
+  },
+  "Загрузка CMS…": {
+    "en": "Loading CMS...",
+    "zh": "正在加载内容管理系统...",
+    "pt": "Carregando CMS...",
+    "sr": "Учитавање ЦМС-а...",
+    "es": "Cargando CMS...",
+    "ar": "جارٍ تحميل نظام إدارة المحتوى...",
+    "de": "CMS wird geladen..."
+  },
+  "Загрузка…": {
+    "en": "Loading…",
+    "zh": "加载中…",
+    "pt": "Carregando…",
+    "sr": "Учитавање…",
+    "es": "Cargando…",
+    "ar": "تحميل…",
+    "de": "Laden…"
+  },
+  "Закрыть": {
+    "en": "Close",
+    "zh": "关闭",
+    "pt": "Fechar",
+    "sr": "Затвори",
+    "es": "Cerca",
+    "ar": "يغلق",
+    "de": "Schließen"
+  },
+  "Закрыть поиск": {
+    "en": "Close search",
+    "zh": "关闭搜索",
+    "pt": "Fechar pesquisa",
+    "sr": "Затвори претрагу",
+    "es": "Cerrar búsqueda",
+    "ar": "إغلاق البحث",
+    "de": "Suche schließen"
+  },
+  "Заметки о мастерстве, культуре и осознанной жизни.": {
+    "en": "Notes on mastery, culture and conscious living.",
+    "zh": "关于掌握、文化和有意识的生活的笔记。",
+    "pt": "Notas sobre maestria, cultura e vivência consciente.",
+    "sr": "Белешке о мајсторству, култури и свесном животу.",
+    "es": "Apuntes sobre maestría, cultura y vida consciente.",
+    "ar": "ملاحظات على الإتقان والثقافة والحياة الواعية.",
+    "de": "Hinweise zu Meisterschaft, Kultur und bewusstem Leben."
+  },
+  "Заполните данные доставки": {
+    "en": "Fill in the delivery details",
+    "zh": "填写送货详情",
+    "pt": "Preencha os dados de entrega",
+    "sr": "Попуните детаље испоруке",
+    "es": "Complete los detalles de entrega",
+    "ar": "املأ تفاصيل التسليم",
+    "de": "Geben Sie die Lieferdetails ein"
+  },
+  "Запрос принят": {
+    "en": "Request accepted",
+    "zh": "请求已接受",
+    "pt": "Solicitação aceita",
+    "sr": "Захтев је прихваћен",
+    "es": "Solicitud aceptada",
+    "ar": "تم قبول الطلب",
+    "de": "Anfrage angenommen"
+  },
+  "Заявка на курьерскую доставку": {
+    "en": "Application for courier delivery",
+    "zh": "申请快递派送",
+    "pt": "Pedido de entrega de correio",
+    "sr": "Пријава за курирску доставу",
+    "es": "Solicitud de entrega por mensajería",
+    "ar": "تطبيق لتسليم البريد السريع",
+    "de": "Antrag auf Kurierzustellung"
+  },
+  "Здесь пока ничего нет": {
+    "en": "There's nothing here yet",
+    "zh": "这里还什么都没有",
+    "pt": "Não há nada aqui ainda",
+    "sr": "Овде још нема ничега",
+    "es": "No hay nada aquí todavía",
+    "ar": "لا يوجد شيء هنا بعد",
+    "de": "Hier ist noch nichts"
+  },
+  "и ответы.": {
+    "en": "and answers.",
+    "zh": "和答案。",
+    "pt": "e respostas.",
+    "sr": "и одговоре.",
+    "es": "y respuestas.",
+    "ar": "والأجوبة.",
+    "de": "und Antworten."
+  },
+  "Иван Иванов": {
+    "en": "Ivan Ivanov",
+    "zh": "伊万·伊万诺夫",
+    "pt": "Ivan Ivanov",
+    "sr": "Иван Иванов",
+    "es": "Iván Ivanov",
+    "ar": "إيفان إيفانوف",
+    "de": "Iwan Iwanow"
+  },
+  "Из бутика LUNE · Бесплатно": {
+    "en": "From LUNE Boutique · Free",
+    "zh": "来自 LUNE 精品店·免费",
+    "pt": "Da LUNE Boutique · Grátis",
+    "sr": "Из ЛУНЕ Боутикуе-а · Бесплатно",
+    "es": "De LUNE Boutique · Gratis",
+    "ar": "من بوتيك LUNE · مجانًا",
+    "de": "Von LUNE Boutique · Kostenlos"
+  },
+  "Избранное": {
+    "en": "Favorites",
+    "zh": "收藏夹",
+    "pt": "Favoritos",
+    "sr": "Фаворитес",
+    "es": "Favoritos",
+    "ar": "المفضلة",
+    "de": "Favoriten"
+  },
+  "Избранное (": {
+    "en": "Favorites (",
+    "zh": "收藏夹 (",
+    "pt": "Favoritos (",
+    "sr": "Фаворити (",
+    "es": "Favoritos (",
+    "ar": "المفضلة (",
+    "de": "Favoriten ("
+  },
+  "Изменён": {
+    "en": "Changed",
+    "zh": "改变了",
+    "pt": "Mudado",
+    "sr": "Промењено",
+    "es": "Cambió",
+    "ar": "تغيرت",
+    "de": "Geändert"
+  },
+  "Изменить": {
+    "en": "Change",
+    "zh": "改变",
+    "pt": "Mudar",
+    "sr": "Промена",
+    "es": "Cambiar",
+    "ar": "يتغير",
+    "de": "Ändern"
+  },
+  "Инвесторы": {
+    "en": "Investors",
+    "zh": "投资者",
+    "pt": "Investidores",
+    "sr": "Инвеститори",
+    "es": "Inversores",
+    "ar": "المستثمرين",
+    "de": "Investoren"
+  },
+  "Исследование": {
+    "en": "Study",
+    "zh": "学习",
+    "pt": "Estudar",
+    "sr": "Студија",
+    "es": "Estudiar",
+    "ar": "يذاكر",
+    "de": "Studie"
+  },
+  "История LUNE": {
+    "en": "History of LUNE",
+    "zh": "露恩的历史",
+    "pt": "História da LUNA",
+    "sr": "Историја ЛУНЕ",
+    "es": "Historia de LUNA",
+    "ar": "تاريخ لون",
+    "de": "Geschichte von LUNE"
+  },
+  "Итальянская шерсть": {
+    "en": "Italian wool",
+    "zh": "意大利羊毛",
+    "pt": "Lã italiana",
+    "sr": "италијанска вуна",
+    "es": "lana italiana",
+    "ar": "الصوف الإيطالي",
+    "de": "Italienische Wolle"
+  },
+  "Итого": {
+    "en": "Total",
+    "zh": "全部的",
+    "pt": "Total",
+    "sr": "Укупно",
+    "es": "Total",
+    "ar": "المجموع",
+    "de": "Gesamt"
+  },
+  "К коллекции": {
+    "en": "To the collection",
+    "zh": "前往收藏",
+    "pt": "Para a coleção",
+    "sr": "У збирку",
+    "es": "a la coleccion",
+    "ar": "إلى المجموعة",
+    "de": "Zur Sammlung"
+  },
+  "Каждая вещь LUNE проходит через руки мастеров. Мы сопровождаем весь путь": {
+    "en": "Every LUNE item passes through the hands of master craftsmen. We accompany you all the way",
+    "zh": "每件 LUNE 商品都经过大师级工匠之手。我们一路陪伴你",
+    "pt": "Cada item LUNE passa pelas mãos de mestres artesãos. Nós acompanhamos você em todo o caminho",
+    "sr": "Сваки ЛУНЕ предмет пролази кроз руке мајстора. Пратимо вас до краја",
+    "es": "Cada artículo LUNE pasa por las manos de maestros artesanos. Te acompañamos en todo el camino",
+    "ar": "يمر كل منتج من منتجات LUNE عبر أيدي أفضل الحرفيين. نحن نرافقك على طول الطريق",
+    "de": "Jeder LUNE-Artikel geht durch die Hände von Meisterhandwerkern. Wir begleiten Sie auf dem gesamten Weg"
+  },
+  "Как вы выбираете материалы?": {
+    "en": "How do you choose materials?",
+    "zh": "你如何选择材料？",
+    "pt": "Como você escolhe os materiais?",
+    "sr": "Како бирате материјале?",
+    "es": "¿Cómo eliges los materiales?",
+    "ar": "كيف تختار المواد؟",
+    "de": "Wie wählen Sie Materialien aus?"
+  },
+  "кашемир": {
+    "en": "cashmere",
+    "zh": "羊绒",
+    "pt": "caxemira",
+    "sr": "кашмир",
+    "es": "cachemira",
+    "ar": "الكشمير",
+    "de": "Kaschmir"
+  },
+  "Коллекции": {
+    "en": "Collections",
+    "zh": "收藏",
+    "pt": "Coleções",
+    "sr": "Збирке",
+    "es": "Colecciones",
+    "ar": "المجموعات",
+    "de": "Sammlungen"
+  },
+  "Коллекции создаются в московской студии LUNE и выпускаются небольшими партиями в специализированных ателье Москвы. Основные материалы поступают от партнёров из Копенгагена.": {
+    "en": "Collections are created in the Moscow studio LUNE and produced in small batches in specialized studios in Moscow. Basic materials come from partners in Copenhagen.",
+    "zh": "系列产品在莫斯科 LUNE 工作室创作，并在莫斯科的专业工作室小批量生产。基本材料来自哥本哈根的合作伙伴。",
+    "pt": "As coleções são criadas no estúdio LUNE de Moscou e produzidas em pequenos lotes em estúdios especializados em Moscou. Os materiais básicos vêm de parceiros em Copenhague.",
+    "sr": "Колекције се креирају у московском студију ЛУНЕ и производе се у малим серијама у специјализованим студијима у Москви. Основни материјали долазе од партнера у Копенхагену.",
+    "es": "Las colecciones se crean en el estudio LUNE de Moscú y se producen en pequeños lotes en estudios especializados de Moscú. Los materiales básicos provienen de socios en Copenhague.",
+    "ar": "يتم إنشاء المجموعات في استوديو LUNE بموسكو ويتم إنتاجها على دفعات صغيرة في استوديوهات متخصصة في موسكو. تأتي المواد الأساسية من شركاء في كوبنهاجن.",
+    "de": "Kollektionen werden im Moskauer Studio LUNE erstellt und in kleinen Mengen in spezialisierten Studios in Moskau produziert. Die Grundmaterialien stammen von Partnern in Kopenhagen."
+  },
+  "Коллекция LUNE": {
+    "en": "Collection LUNE",
+    "zh": "月月系列",
+    "pt": "Coleção LUNA",
+    "sr": "Цоллецтион ЛУНЕ",
+    "es": "Colección LUNA",
+    "ar": "جمع لون",
+    "de": "Kollektion LUNE"
+  },
+  "Компания": {
+    "en": "Company",
+    "zh": "公司",
+    "pt": "Empresa",
+    "sr": "Компанија",
+    "es": "Compañía",
+    "ar": "شركة",
+    "de": "Unternehmen"
+  },
+  "Конфиденциальность": {
+    "en": "Confidentiality",
+    "zh": "保密性",
+    "pt": "Confidencialidade",
+    "sr": "Поверљивост",
+    "es": "Confidencialidad",
+    "ar": "السرية",
+    "de": "Vertraulichkeit"
+  },
+  "Копенгаген": {
+    "en": "Copenhagen",
+    "zh": "哥本哈根",
+    "pt": "Copenhague",
+    "sr": "Копенхаген",
+    "es": "Copenhague",
+    "ar": "كوبنهاغن",
+    "de": "Kopenhagen"
+  },
+  "Копенгаген · LUNE Partner Hub": {
+    "en": "Copenhagen LUNE Partner Hub",
+    "zh": "哥本哈根 LUNE 合作伙伴中心",
+    "pt": "Centro de parceiros LUNE de Copenhague",
+    "sr": "Копенхаген ЛУНЕ Партнер Хуб",
+    "es": "Centro de socios LUNE de Copenhague",
+    "ar": "مركز شركاء كوبنهاغن LUNE",
+    "de": "Kopenhagener LUNE-Partner-Hub"
+  },
+  "Корзина": {
+    "en": "Basket",
+    "zh": "篮子",
+    "pt": "Cesta",
+    "sr": "Баскет",
+    "es": "Cesta",
+    "ar": "سلة",
+    "de": "Korb"
+  },
+  "Корзина (": {
+    "en": "Basket (",
+    "zh": "篮子 （",
+    "pt": "Cesta (",
+    "sr": "корпа (",
+    "es": "Cesta (",
+    "ar": "سلة (",
+    "de": "Korb ("
+  },
+  "костюм": {
+    "en": "costume",
+    "zh": "戏服",
+    "pt": "fantasia",
+    "sr": "костим",
+    "es": "traje",
+    "ar": "زي",
+    "de": "Kostüm"
+  },
+  "Курьер": {
+    "en": "Courier",
+    "zh": "导游",
+    "pt": "Correio",
+    "sr": "Курир",
+    "es": "Mensajero",
+    "ar": "ساعي",
+    "de": "Kurier"
+  },
+  "Лаконичные силуэты с тихим характером. Вещи, которые хочется носить, помнить и выбирать снова.": {
+    "en": "Laconic silhouettes with a quiet character. Things you want to wear, remember and choose again.",
+    "zh": "简洁的轮廓具有安静的性格。你想穿的东西，记住并重新选择。",
+    "pt": "Silhuetas lacônicas com caráter tranquilo. Coisas que você quer usar, lembre-se e escolha novamente.",
+    "sr": "Лаконске силуете са тихим карактером. Ствари које желите да носите, запамтите и изаберите поново.",
+    "es": "Siluetas lacónicas con un carácter tranquilo. Cosas que quieres usar, recuerda y elige de nuevo.",
+    "ar": "الصور الظلية المقتضبة ذات الطابع الهادئ. الأشياء التي ترغب في ارتدائها، تذكرها واخترها مرة أخرى.",
+    "de": "Lakonische Silhouetten mit ruhigem Charakter. Dinge, die Sie tragen möchten, erinnern Sie sich und wählen Sie sie erneut aus."
+  },
+  "Магазин": {
+    "en": "Shop",
+    "zh": "店铺",
+    "pt": "Comprar",
+    "sr": "Схоп",
+    "es": "Comercio",
+    "ar": "محل",
+    "de": "Geschäft"
+  },
+  "Магазины": {
+    "en": "Stores",
+    "zh": "商店",
+    "pt": "Lojas",
+    "sr": "Продавнице",
+    "es": "Víveres",
+    "ar": "متاجر",
+    "de": "Geschäfte"
+  },
+  "Материал": {
+    "en": "Material",
+    "zh": "材料",
+    "pt": "Material",
+    "sr": "Материјал",
+    "es": "Material",
+    "ar": "مادة",
+    "de": "Material"
+  },
+  "Материал из Копенгагена": {
+    "en": "Material from Copenhagen",
+    "zh": "材料来自哥本哈根",
+    "pt": "Material de Copenhague",
+    "sr": "Материјал из Копенхагена",
+    "es": "Material de Copenhague",
+    "ar": "المواد من كوبنهاجن",
+    "de": "Material aus Kopenhagen"
+  },
+  "Материал поступает в Москву от партнёров из Копенгагена. Мы проверяем происхождение и качество волокон, плотность полотна и устойчивость цвета. Только после тестов ткань отправляется в наше московское ателье.": {
+    "en": "The material comes to Moscow from partners from Copenhagen. We check the origin and quality of the fibers, the density of the fabric and color fastness. Only after tests the fabric is sent to our Moscow studio.",
+    "zh": "这些材料是从哥本哈根的合作伙伴运到莫斯科的。我们检查纤维的来源和质量、织物的密度和色牢度。只有经过测试后，织物才会被发送到我们的莫斯科工作室。",
+    "pt": "O material chega a Moscou vindo de parceiros de Copenhague. Verificamos a origem e qualidade das fibras, a densidade do tecido e a solidez da cor. Somente após testes o tecido é enviado ao nosso estúdio em Moscou.",
+    "sr": "Материјал стиже у Москву од партнера из Копенхагена. Проверавамо порекло и квалитет влакана, густину тканине и постојаност боје. Тек након тестирања тканина се шаље у наш московски студио.",
+    "es": "El material llega a Moscú de la mano de socios de Copenhague. Comprobamos el origen y calidad de las fibras, la densidad del tejido y la solidez del color. Sólo después de las pruebas la tela se envía a nuestro estudio de Moscú.",
+    "ar": "وتأتي المواد إلى موسكو من شركاء من كوبنهاغن. نتحقق من أصل وجودة الألياف وكثافة القماش وثبات اللون. فقط بعد الاختبارات يتم إرسال القماش إلى الاستوديو الخاص بنا في موسكو.",
+    "de": "Das Material kommt von Partnern aus Kopenhagen nach Moskau. Wir prüfen die Herkunft und Qualität der Fasern, die Dichte des Stoffes und die Farbechtheit. Erst nach Tests wird der Stoff an unser Moskauer Studio geschickt."
+  },
+  "Медленно.": {
+    "en": "Slowly.",
+    "zh": "慢慢地。",
+    "pt": "Devagar.",
+    "sr": "Полако.",
+    "es": "Despacio.",
+    "ar": "ببطء.",
+    "de": "Langsam."
+  },
+  "меньшего": {
+    "en": "less",
+    "zh": "较少的",
+    "pt": "menos",
+    "sr": "мање",
+    "es": "menos",
+    "ar": "أقل",
+    "de": "weniger"
+  },
+  "Мериносовая шерсть": {
+    "en": "Merino wool",
+    "zh": "美利奴羊毛",
+    "pt": "Lã Merino",
+    "sr": "Мерино вуна",
+    "es": "lana merina",
+    "ar": "صوف ميرينو",
+    "de": "Merinowolle"
+  },
+  "Милан": {
+    "en": "Milan",
+    "zh": "米兰",
+    "pt": "Milão",
+    "sr": "Милан",
+    "es": "Milán",
+    "ar": "ميلان",
+    "de": "Mailand"
+  },
+  "Милан · Brera": {
+    "en": "Milan Brera",
+    "zh": "米兰布雷拉",
+    "pt": "Milão Brera",
+    "sr": "Милан Брера",
+    "es": "Milán Brera",
+    "ar": "ميلان بريرا",
+    "de": "Milan Brera"
+  },
+  "минималистичная мода": {
+    "en": "minimalist fashion",
+    "zh": "极简时尚",
+    "pt": "moda minimalista",
+    "sr": "минималистичка мода",
+    "es": "moda minimalista",
+    "ar": "أزياء الحد الأدنى",
+    "de": "minimalistische Mode"
+  },
+  "Минимум деталей, идеальная форма и очень приятная ткань. Получаю комплименты каждый раз, когда надеваю.": {
+    "en": "A minimum of details, perfect shape and very nice fabric. I get compliments every time I wear it.",
+    "zh": "最少的细节、完美的形状和非常好的面料。每次我穿上它都会得到赞美。",
+    "pt": "Um mínimo de detalhes, formato perfeito e tecido muito bonito. Recebo elogios toda vez que o uso.",
+    "sr": "Минимум детаља, савршен облик и веома лепа тканина. Добијам комплименте сваки пут када га носим.",
+    "es": "Un mínimo de detalles, forma perfecta y tejido muy bonito. Recibo elogios cada vez que lo uso.",
+    "ar": "الحد الأدنى من التفاصيل والشكل المثالي والنسيج الجميل للغاية. أحصل على الثناء في كل مرة أرتديها.",
+    "de": "Ein Minimum an Details, perfekte Form und sehr schöner Stoff. Ich bekomme jedes Mal Komplimente, wenn ich es trage."
+  },
+  "Мобильная навигация": {
+    "en": "Mobile navigation",
+    "zh": "手机导航",
+    "pt": "Navegação móvel",
+    "sr": "Мобилна навигација",
+    "es": "Navegación móvil",
+    "ar": "الملاحة المتنقلة",
+    "de": "Mobile Navigation"
+  },
+  "Модель в выразительном образе LUNE": {
+    "en": "Model wearing expressive LUNE look",
+    "zh": "模特穿着富有表现力的 LUNE 造型",
+    "pt": "Modelo com look expressivo LUNE",
+    "sr": "Модел носи експресивни ЛУНЕ изглед",
+    "es": "Modelo con el expresivo look LUNE",
+    "ar": "عارضة أزياء ترتدي مظهر LUNE المعبّر",
+    "de": "Model im ausdrucksstarken LUNE-Look"
+  },
+  "Модель соответствует российской размерной сетке. Если вы между размерами, выберите больший для более свободной посадки.": {
+    "en": "The model corresponds to the Russian size chart. If you're between sizes, choose the larger one for a looser fit.",
+    "zh": "该型号对应俄罗斯尺码表。如果您的尺码介于两个尺码之间，请选择较大的尺码以实现宽松版型。",
+    "pt": "O modelo corresponde à tabela de tamanhos russa. Se você estiver entre tamanhos, escolha o maior para um ajuste mais folgado.",
+    "sr": "Модел одговара руској табели величина. Ако сте између величина, изаберите већу за лабавије.",
+    "es": "El modelo corresponde a la tabla de tallas rusa. Si estás entre tallas, elige la más grande para un ajuste más holgado.",
+    "ar": "يتوافق النموذج مع مخطط المقاسات الروسي. إذا كان مقاسك بين مقاسين، فاختر المقاس الأكبر للحصول على مقاس فضفاض.",
+    "de": "Das Modell entspricht der russischen Größentabelle. Wenn Sie zwischen zwei Größen liegen, wählen Sie die größere Größe für eine lockerere Passform."
+  },
+  "Можно ли вернуть или обменять вещь?": {
+    "en": "Can I return or exchange an item?",
+    "zh": "我可以退货或换货吗？",
+    "pt": "Posso devolver ou trocar um artigo?",
+    "sr": "Могу ли да вратим или заменим неки предмет?",
+    "es": "¿Puedo devolver o cambiar un artículo?",
+    "ar": "هل يمكنني إرجاع أو استبدال السلعة؟",
+    "de": "Kann ich einen Artikel zurückgeben oder umtauschen?"
+  },
+  "Молочный": {
+    "en": "Lactic",
+    "zh": "乳酸",
+    "pt": "Láctico",
+    "sr": "Лацтиц",
+    "es": "Láctico",
+    "ar": "لاكتيك",
+    "de": "Milchig"
+  },
+  "Москва": {
+    "en": "Moscow",
+    "zh": "莫斯科",
+    "pt": "Moscou",
+    "sr": "Москва",
+    "es": "Moscú",
+    "ar": "موسكو",
+    "de": "Moskau"
+  },
+  "Москва · С 2018 года": {
+    "en": "Moscow · Since 2018",
+    "zh": "莫斯科·2018年起",
+    "pt": "Moscou · Desde 2018",
+    "sr": "Москва · Од 2018",
+    "es": "Moscú · Desde 2018",
+    "ar": "موسكو · منذ 2018",
+    "de": "Moskau · Seit 2018"
+  },
+  "Москва · LUNE Studio": {
+    "en": "Moscow LUNE Studio",
+    "zh": "莫斯科LUNE工作室",
+    "pt": "Estúdio LUNE em Moscou",
+    "sr": "Москва ЛУНЕ Студио",
+    "es": "Estudio LUNE de Moscú",
+    "ar": "استوديو موسكو لون",
+    "de": "Moskau LUNE Studio"
+  },
+  "Москва, Россия.": {
+    "en": "Moscow, Russia.",
+    "zh": "俄罗斯莫斯科。",
+    "pt": "Moscou, Rússia.",
+    "sr": "Москва, Русија.",
+    "es": "Moscú, Rusia.",
+    "ar": "موسكو، روسيا.",
+    "de": "Moskau, Russland."
+  },
+  "Мы верим, что лучший гардероб требует": {
+    "en": "We believe that the best wardrobe requires",
+    "zh": "我们相信最好的衣柜需要",
+    "pt": "Acreditamos que o melhor guarda-roupa exige",
+    "sr": "Верујемо да најбоља гардероба захтева",
+    "es": "Creemos que el mejor vestuario requiere",
+    "ar": "ونحن نعتقد أن أفضل خزانة الملابس تتطلب",
+    "de": "Wir glauben, dass die beste Garderobe erforderlich ist"
+  },
+  "Мы получили ваш выбор и скоро свяжемся с вами для подтверждения деталей.": {
+    "en": "We have received your selection and will contact you soon to confirm the details.",
+    "zh": "我们已收到您的选择，并将尽快与您联系以确认详细信息。",
+    "pt": "Recebemos sua seleção e entraremos em contato em breve para confirmar os detalhes.",
+    "sr": "Примили смо ваш избор и ускоро ћемо вас контактирати да потврдимо детаље.",
+    "es": "Hemos recibido su selección y nos comunicaremos con usted pronto para confirmar los detalles.",
+    "ar": "لقد تلقينا اختيارك وسنتصل بك قريبًا لتأكيد التفاصيل.",
+    "de": "Wir haben Ihre Auswahl erhalten und werden uns in Kürze mit Ihnen in Verbindung setzen, um die Details zu bestätigen."
+  },
+  "Мы работаем с копенгагенскими поставщиками натуральных волокон с прозрачным происхождением, переработанными материалами и сертифицированными фабриками. Каждая ткань выбирается за тактильность, долговечность и красивое старение.": {
+    "en": "We work with Copenhagen-based suppliers of natural fibers with transparent origins, recycled materials and certified mills. Each fabric is selected for tactility, durability and graceful aging.",
+    "zh": "我们与哥本哈根供应商合作，提供来源透明的天然纤维、回收材料和经过认证的工厂。每种面料均经过精心挑选，注重触感、耐用性和优雅的老化效果。",
+    "pt": "Trabalhamos com fornecedores de fibras naturais de origem transparente, com sede em Copenhague, materiais reciclados e fábricas certificadas. Cada tecido é selecionado para tato, durabilidade e envelhecimento elegante.",
+    "sr": "Радимо са добављачима природних влакана са транспарентним пореклом, рециклираним материјалима и сертификованим млиновима из Копенхагена. Свака тканина је одабрана за тактилност, издржљивост и грациозно старење.",
+    "es": "Trabajamos con proveedores de fibras naturales con orígenes transparentes, materiales reciclados y fábricas certificadas con sede en Copenhague. Cada tejido se selecciona por su tacto, durabilidad y envejecimiento elegante.",
+    "ar": "نحن نعمل مع موردي الألياف الطبيعية في كوبنهاجن ذات الأصول الشفافة والمواد المعاد تدويرها والمطاحن المعتمدة. يتم اختيار كل نسيج من أجل الملمس والمتانة والشيخوخة الرشيقة.",
+    "de": "Wir arbeiten mit in Kopenhagen ansässigen Lieferanten von Naturfasern transparenter Herkunft, recycelten Materialien und zertifizierten Fabriken zusammen. Jeder Stoff wird aufgrund seiner Haptik, Haltbarkeit und eleganten Alterung ausgewählt."
+  },
+  "Мягкий тейлоринг": {
+    "en": "Soft tailoring",
+    "zh": "柔软剪裁",
+    "pt": "Alfaiataria suave",
+    "sr": "Меко кројење",
+    "es": "sastrería suave",
+    "ar": "خياطة ناعمة",
+    "de": "Weiche Schneiderei"
+  },
+  "На главную": {
+    "en": "Home",
+    "zh": "家",
+    "pt": "Lar",
+    "sr": "Хоме",
+    "es": "Hogar",
+    "ar": "بيت",
+    "de": "Heim"
+  },
+  "Нажмите на сердечко у понравившегося товара.": {
+    "en": "Click on the heart of the product you like.",
+    "zh": "单击您喜欢的产品的中心。",
+    "pt": "Clique no coração do produto que você gosta.",
+    "sr": "Кликните на срце производа који вам се свиђа.",
+    "es": "Haz clic en el corazón del producto que te guste.",
+    "ar": "انقر على قلب المنتج الذي تفضله.",
+    "de": "Klicken Sie auf das Herzstück des Produkts, das Ihnen gefällt."
+  },
+  "Название *": {
+    "en": "Name *",
+    "zh": "姓名 *",
+    "pt": "Nome *",
+    "sr": "Име *",
+    "es": "Nombre *",
+    "ar": "اسم *",
+    "de": "Name *"
+  },
+  "Наличие в магазинах": {
+    "en": "Availability in stores",
+    "zh": "商店有货情况",
+    "pt": "Disponibilidade nas lojas",
+    "sr": "Доступност у продавницама",
+    "es": "Disponibilidad en tiendas",
+    "ar": "التوفر في المتاجر",
+    "de": "Verfügbarkeit im Handel"
+  },
+  "Например, жакет Structure": {
+    "en": "For example, Structure jacket",
+    "zh": "例如，结构夹克",
+    "pt": "Por exemplo, jaqueta Estrutura",
+    "sr": "На пример, Струцтуре јакна",
+    "es": "Por ejemplo, chaqueta de estructura.",
+    "ar": "على سبيل المثال، سترة الهيكل",
+    "de": "Zum Beispiel Strukturjacke"
+  },
+  "Настройки": {
+    "en": "Settings",
+    "zh": "设置",
+    "pt": "Configurações",
+    "sr": "Подешавања",
+    "es": "Ajustes",
+    "ar": "إعدادات",
+    "de": "Einstellungen"
+  },
+  "Натуральные материалы": {
+    "en": "Natural materials",
+    "zh": "天然材料",
+    "pt": "Materiais naturais",
+    "sr": "Природни материјали",
+    "es": "Materiales naturales",
+    "ar": "مواد طبيعية",
+    "de": "Natürliche Materialien"
+  },
+  "Наш взгляд": {
+    "en": "Our view",
+    "zh": "我们的观点",
+    "pt": "Nossa visão",
+    "sr": "Наш поглед",
+    "es": "Nuestra visión",
+    "ar": "وجهة نظرنا",
+    "de": "Unsere Ansicht"
+  },
+  "Наша философия": {
+    "en": "Our philosophy",
+    "zh": "我们的理念",
+    "pt": "Nossa filosofia",
+    "sr": "Наша филозофија",
+    "es": "Nuestra filosofía",
+    "ar": "فلسفتنا",
+    "de": "Unsere Philosophie"
+  },
+  "Не менее 12 символов": {
+    "en": "At least 12 characters",
+    "zh": "至少 12 个字符",
+    "pt": "Pelo menos 12 caracteres",
+    "sr": "Најмање 12 знакова",
+    "es": "Al menos 12 caracteres",
+    "ar": "ما لا يقل عن 12 حرفا",
+    "de": "Mindestens 12 Zeichen"
+  },
+  "Не нашли ответ? Перейдите на страницу поддержки.": {
+    "en": "Didn't find the answer? Go to the support page.",
+    "zh": "没有找到答案？转到支持页面。",
+    "pt": "Não encontrou a resposta? Vá para a página de suporte.",
+    "sr": "Нисте нашли одговор? Идите на страницу за подршку.",
+    "es": "¿No encontraste la respuesta? Vaya a la página de soporte.",
+    "ar": "لم تجد الجواب؟ انتقل إلى صفحة الدعم.",
+    "de": "Haben Sie die Antwort nicht gefunden? Gehen Sie zur Support-Seite."
+  },
+  "Не удалось загрузить изображение.": {
+    "en": "Failed to load image.",
+    "zh": "加载图像失败。",
+    "pt": "Falha ao carregar a imagem.",
+    "sr": "Учитавање слике није успело.",
+    "es": "No se pudo cargar la imagen.",
+    "ar": "فشل تحميل الصورة.",
+    "de": "Bild konnte nicht geladen werden."
+  },
+  "Не удалось загрузить товары.": {
+    "en": "Failed to load products.",
+    "zh": "无法加载产品。",
+    "pt": "Falha ao carregar produtos.",
+    "sr": "Учитавање производа није успело.",
+    "es": "No se pudieron cargar los productos.",
+    "ar": "فشل في تحميل المنتجات.",
+    "de": "Die Produkte konnten nicht geladen werden."
+  },
+  "Не удалось загрузить фотографию.": {
+    "en": "Failed to upload photo.",
+    "zh": "上传照片失败。",
+    "pt": "Falha ao carregar a foto.",
+    "sr": "Отпремање фотографије није успело.",
+    "es": "No se pudo cargar la foto.",
+    "ar": "فشل تحميل الصورة.",
+    "de": "Foto konnte nicht hochgeladen werden."
+  },
+  "Не удалось изменить товар.": {
+    "en": "Failed to change product.",
+    "zh": "更改产品失败。",
+    "pt": "Falha ao alterar o produto.",
+    "sr": "Промена производа није успела.",
+    "es": "No se pudo cambiar el producto.",
+    "ar": "فشل في تغيير المنتج.",
+    "de": "Produktwechsel fehlgeschlagen."
+  },
+  "Не удалось подключиться к базе данных.": {
+    "en": "Failed to connect to the database.",
+    "zh": "无法连接到数据库。",
+    "pt": "Falha ao conectar-se ao banco de dados.",
+    "sr": "Повезивање са базом података није успело.",
+    "es": "No se pudo conectar a la base de datos.",
+    "ar": "فشل الاتصال بقاعدة البيانات.",
+    "de": "Verbindung zur Datenbank konnte nicht hergestellt werden."
+  },
+  "Не удалось сохранить товар.": {
+    "en": "Failed to save item.",
+    "zh": "保存项目失败。",
+    "pt": "Falha ao salvar o item.",
+    "sr": "Чување ставке није успело.",
+    "es": "No se pudo guardar el elemento.",
+    "ar": "فشل حفظ العنصر.",
+    "de": "Das Element konnte nicht gespeichert werden."
+  },
+  "Не удалось удалить товар.": {
+    "en": "Failed to delete product.",
+    "zh": "删除产品失败。",
+    "pt": "Falha ao excluir o produto.",
+    "sr": "Брисање производа није успело.",
+    "es": "No se pudo eliminar el producto.",
+    "ar": "فشل في حذف المنتج.",
+    "de": "Das Produkt konnte nicht gelöscht werden."
+  },
+  "не указан": {
+    "en": "not specified",
+    "zh": "未指定",
+    "pt": "não especificado",
+    "sr": "није наведено",
+    "es": "No especificado",
+    "ar": "غير محدد",
+    "de": "nicht angegeben"
+  },
+  "Небольшие партии и долговечная конструкция вместо одноразовых трендов.": {
+    "en": "Small batches and long-lasting designs instead of one-off trends.",
+    "zh": "小批量和持久的设计而不是一次性的流行趋势。",
+    "pt": "Pequenos lotes e designs duradouros em vez de tendências únicas.",
+    "sr": "Мале серије и дуготрајни дизајни уместо једнократних трендова.",
+    "es": "Lotes pequeños y diseños duraderos en lugar de tendencias puntuales.",
+    "ar": "دفعات صغيرة وتصميمات طويلة الأمد بدلاً من الاتجاهات لمرة واحدة.",
+    "de": "Kleine Stückzahlen und langlebige Designs statt einmalige Trends."
+  },
+  "Неверная почта или пароль.": {
+    "en": "Invalid email or password.",
+    "zh": "电子邮件或密码无效。",
+    "pt": "E-mail ou senha inválidos.",
+    "sr": "Неважећа адреса е-поште или лозинка.",
+    "es": "Correo electrónico o contraseña no válidos.",
+    "ar": "البريد الإلكتروني أو كلمة المرور غير صالحة.",
+    "de": "Ungültige E-Mail-Adresse oder ungültiges Passwort."
+  },
+  "Недавно изменённые": {
+    "en": "Recently modified",
+    "zh": "最近修改过",
+    "pt": "Modificado recentemente",
+    "sr": "Недавно измењено",
+    "es": "Modificado recientemente",
+    "ar": "تم تعديله مؤخرًا",
+    "de": "Kürzlich geändert"
+  },
+  "Неношеные изделия в первоначальном состоянии можно вернуть в течение 30 дней. Обмен производится бесплатно.": {
+    "en": "Unworn items in original condition may be returned within 30 days. The exchange is free of charge.",
+    "zh": "未磨损且保持原始状态的商品可在 30 天内退货。兑换是免费的。",
+    "pt": "Itens não usados ​​em condições originais podem ser devolvidos no prazo de 30 dias. A troca é gratuita.",
+    "sr": "Неношене ствари у оригиналном стању могу се вратити у року од 30 дана. Размена је бесплатна.",
+    "es": "Los artículos no usados ​​en su estado original pueden devolverse dentro de los 30 días. El cambio es gratuito.",
+    "ar": "يمكن إرجاع العناصر غير المستخدمة في حالتها الأصلية خلال 30 يومًا. التبادل مجاني.",
+    "de": "Ungetragene Artikel im Originalzustand können innerhalb von 30 Tagen zurückgegeben werden. Der Umtausch ist kostenlos."
+  },
+  "Нет в наличии": {
+    "en": "Not available",
+    "zh": "无法使用",
+    "pt": "Não disponível",
+    "sr": "Није доступно",
+    "es": "No disponible",
+    "ar": "غير متوفر",
+    "de": "Nicht verfügbar"
+  },
+  "Новая заявка LUNE · Курьер": {
+    "en": "New application LUNE · Courier",
+    "zh": "新应用LUNE·快递",
+    "pt": "Novo aplicativo LUNE · Courier",
+    "sr": "Нова апликација ЛУНЕ · Курир",
+    "es": "Nueva aplicación LUNE · Mensajería",
+    "ar": "تطبيق جديد LUNE · الساعي",
+    "de": "Neue Anwendung LUNE · Courier"
+  },
+  "Новая позиция": {
+    "en": "New position",
+    "zh": "新职位",
+    "pt": "Nova posição",
+    "sr": "Нова позиција",
+    "es": "Nueva posición",
+    "ar": "موقف جديد",
+    "de": "Neue Position"
+  },
+  "Новинки": {
+    "en": "New items",
+    "zh": "新商品",
+    "pt": "Novos itens",
+    "sr": "Нове ставке",
+    "es": "Nuevos artículos",
+    "ar": "عناصر جديدة",
+    "de": "Neue Artikel"
+  },
+  "Новости": {
+    "en": "News",
+    "zh": "消息",
+    "pt": "Notícias",
+    "sr": "Вести",
+    "es": "Noticias",
+    "ar": "أخبار",
+    "de": "Nachricht"
+  },
+  "О бренде": {
+    "en": "About the brand",
+    "zh": "关于品牌",
+    "pt": "Sobre a marca",
+    "sr": "О бренду",
+    "es": "Sobre la marca",
+    "ar": "حول العلامة التجارية",
+    "de": "Über die Marke"
+  },
+  "Обзор каталога": {
+    "en": "Catalog overview",
+    "zh": "目录概览",
+    "pt": "Visão geral do catálogo",
+    "sr": "Преглед каталога",
+    "es": "Resumen del catálogo",
+    "ar": "نظرة عامة على الكتالوج",
+    "de": "Katalogübersicht"
+  },
+  "Объёмный джемпер из тонкой мериносовой шерсти. Мягкая структура, спущенное плечо и выверенная длина создают спокойный современный силуэт.": {
+    "en": "Oversized jumper made of fine merino wool. The soft structure, dropped shoulder and precise length create a calm, modern silhouette.",
+    "zh": "超大号毛衣，采用细美利奴羊毛制成。柔软的结构、落肩和精确的长度营造出平静、现代的轮廓。",
+    "pt": "Suéter oversized confeccionado em lã merino fina. A estrutura macia, os ombros caídos e o comprimento preciso criam uma silhueta calma e moderna.",
+    "sr": "Велики џемпер од фине мерино вуне. Мека структура, спуштено раме и прецизна дужина стварају мирну, модерну силуету.",
+    "es": "Jersey oversize confeccionado en fina lana merino. La estructura suave, el hombro caído y el largo preciso crean una silueta tranquila y moderna.",
+    "ar": "سترة كبيرة الحجم مصنوعة من صوف ميرينو الفاخر. يخلق الهيكل الناعم والكتف المنخفض والطول الدقيق صورة ظلية هادئة وحديثة.",
+    "de": "Übergroßer Pullover aus feiner Merinowolle. Die weiche Struktur, die überschnittene Schulter und die präzise Länge sorgen für eine ruhige, moderne Silhouette."
+  },
+  "Ориентировочная доставка:": {
+    "en": "Estimated delivery:",
+    "zh": "预计交货期：",
+    "pt": "Entrega estimada:",
+    "sr": "Процењена испорука:",
+    "es": "Entrega estimada:",
+    "ar": "التسليم المقدر:",
+    "de": "Voraussichtliche Lieferung:"
+  },
+  "Осень / Зима 2026": {
+    "en": "Autumn/Winter 2026",
+    "zh": "2026 年秋冬",
+    "pt": "Outono/Inverno 2026",
+    "sr": "Јесен/зима 2026",
+    "es": "Otoño/Invierno 2026",
+    "ar": "خريف/شتاء 2026",
+    "de": "Herbst/Winter 2026"
+  },
+  "Основная навигация": {
+    "en": "Main navigation",
+    "zh": "主导航",
+    "pt": "Navegação principal",
+    "sr": "Главна навигација",
+    "es": "Navegación principal",
+    "ar": "الملاحة الرئيسية",
+    "de": "Hauptnavigation"
+  },
+  "Осознанно.": {
+    "en": "Consciously.",
+    "zh": "有意识地。",
+    "pt": "Conscientemente.",
+    "sr": "Свесно.",
+    "es": "Conscientemente.",
+    "ar": "بوعي.",
+    "de": "Bewusst."
+  },
+  "От волокна к форме": {
+    "en": "From fiber to form",
+    "zh": "从纤维到形态",
+    "pt": "Da fibra à forma",
+    "sr": "Од влакана до форме",
+    "es": "De la fibra a la forma",
+    "ar": "من الألياف إلى الشكل",
+    "de": "Von der Faser zur Form"
+  },
+  "Отзывы": {
+    "en": "Reviews",
+    "zh": "评论",
+    "pt": "Avaliações",
+    "sr": "Рецензије",
+    "es": "Reseñas",
+    "ar": "التعليقات",
+    "de": "Rezensionen"
+  },
+  "Отзывы LUNE": {
+    "en": "Reviews",
+    "zh": "评论",
+    "pt": "Avaliações",
+    "sr": "Рецензије",
+    "es": "Reseñas",
+    "ar": "التعليقات",
+    "de": "Rezensionen"
+  },
+  "Открыть магазин ↗": {
+    "en": "Open a store ↗",
+    "zh": "开店↗",
+    "pt": "Abra uma loja ↗",
+    "sr": "Отворите продавницу ↗",
+    "es": "Abrir una tienda ↗",
+    "ar": "افتح متجر ↗",
+    "de": "Eröffnen Sie ein Geschäft ↗"
+  },
+  "Открыть меню": {
+    "en": "Open menu",
+    "zh": "打开菜单",
+    "pt": "Abrir menu",
+    "sr": "Отворите мени",
+    "es": "abrir menú",
+    "ar": "فتح القائمة",
+    "de": "Menü öffnen"
+  },
+  "Открыть страницу поддержки": {
+    "en": "Open support page",
+    "zh": "打开支持页面",
+    "pt": "Abrir página de suporte",
+    "sr": "Отворите страницу за подршку",
+    "es": "Abrir página de soporte",
+    "ar": "افتح صفحة الدعم",
+    "de": "Support-Seite öffnen"
+  },
+  "Отмена": {
+    "en": "Cancel",
+    "zh": "取消",
+    "pt": "Cancelar",
+    "sr": "Откажи",
+    "es": "Cancelar",
+    "ar": "يلغي",
+    "de": "Stornieren"
+  },
+  "Отправление": {
+    "en": "Departure",
+    "zh": "离开",
+    "pt": "Partida",
+    "sr": "Одлазак",
+    "es": "Partida",
+    "ar": "رحيل",
+    "de": "Abfahrt"
+  },
+  "Отправляем заявку…": {
+    "en": "We are sending an application...",
+    "zh": "我们正在发送申请...",
+    "pt": "Estamos enviando uma inscrição...",
+    "sr": "Шаљемо пријаву...",
+    "es": "Estamos enviando una solicitud...",
+    "ar": "نقوم بإرسال طلب...",
+    "de": "Wir senden eine Bewerbung..."
+  },
+  "Оформить заказ": {
+    "en": "Place an order",
+    "zh": "下订单",
+    "pt": "Faça um pedido",
+    "sr": "Наручите",
+    "es": "hacer un pedido",
+    "ar": "تقديم الطلب",
+    "de": "Geben Sie eine Bestellung auf"
+  },
+  "пальто": {
+    "en": "coat",
+    "zh": "外套",
+    "pt": "casaco",
+    "sr": "капут",
+    "es": "abrigo",
+    "ar": "معطف",
+    "de": "Mantel"
+  },
+  "Пальто сидит безупречно и выглядит ещё лучше спустя сезон. Именно такой должна быть вещь надолго.": {
+    "en": "The coat fits flawlessly and looks even better after a season. This is exactly how a thing should be for a long time.",
+    "zh": "这件外套非常合身，一季过后看起来会更好。这才是长久以来事情应该有的样子。",
+    "pt": "O casaco cai perfeitamente e fica ainda melhor depois de uma temporada. É exatamente assim que uma coisa deveria ser por muito tempo.",
+    "sr": "Капут пристаје беспрекорно и изгледа још боље након сезоне. Управо таква ствар треба да буде дуго времена.",
+    "es": "El abrigo queda perfecto y luce aún mejor después de una temporada. Así debería ser todo durante mucho tiempo.",
+    "ar": "المعطف يناسب بشكل لا تشوبه شائبة ويبدو أفضل بعد موسم واحد. هذا هو بالضبط ما ينبغي أن يكون عليه الأمر لفترة طويلة.",
+    "de": "Der Mantel sitzt perfekt und sieht nach einer Saison noch besser aus. Genau so soll eine Sache für lange Zeit sein."
+  },
+  "Париж": {
+    "en": "Paris",
+    "zh": "巴黎",
+    "pt": "Paris",
+    "sr": "Париз",
+    "es": "París",
+    "ar": "باريس",
+    "de": "Paris"
+  },
+  "Париж · Marais": {
+    "en": "Paris Marais",
+    "zh": "巴黎玛莱区",
+    "pt": "Paris Marais",
+    "sr": "Парис Мараис",
+    "es": "Marais de París",
+    "ar": "باريس ماريه",
+    "de": "Paris Marais"
+  },
+  "Париж, Франция": {
+    "en": "Paris, France",
+    "zh": "法国巴黎",
+    "pt": "Paris, França",
+    "sr": "Париз, Француска",
+    "es": "París, Francia",
+    "ar": "باريس، فرنسا",
+    "de": "Paris, Frankreich"
+  },
+  "Пароль": {
+    "en": "Password",
+    "zh": "密码",
+    "pt": "Senha",
+    "sr": "Лозинка",
+    "es": "Contraseña",
+    "ar": "كلمة المرور",
+    "de": "Passwort"
+  },
+  "платье": {
+    "en": "dress",
+    "zh": "裙子",
+    "pt": "vestir",
+    "sr": "хаљина",
+    "es": "vestido",
+    "ar": "فستان",
+    "de": "Kleid"
+  },
+  "По вашему адресу · срок после ввода города": {
+    "en": "At your address · period after entering the city",
+    "zh": "到达您的地址·进城后的期间",
+    "pt": "No seu endereço · período após entrar na cidade",
+    "sr": "На Вашој адреси · тачка након уласка у град",
+    "es": "En su domicilio · período posterior a su ingreso a la ciudad",
+    "ar": "على عنوانك · فترة بعد دخول المدينة",
+    "de": "An Ihrer Adresse · Zeitraum nach der Einfahrt in die Stadt"
+  },
+  "По вашему запросу ничего не найдено.": {
+    "en": "No results were found for your request.",
+    "zh": "没有找到符合您请求的结果。",
+    "pt": "Nenhum resultado foi encontrado para sua solicitação.",
+    "sr": "Нису пронађени резултати за ваш захтев.",
+    "es": "No se encontraron resultados para su solicitud.",
+    "ar": "لم يتم العثور على نتائج لطلبك.",
+    "de": "Für Ihre Anfrage wurden keine Ergebnisse gefunden."
+  },
+  "По названию": {
+    "en": "By name",
+    "zh": "按名字",
+    "pt": "Por nome",
+    "sr": "По имену",
+    "es": "Por nombre",
+    "ar": "بالاسم",
+    "de": "Mit Namen"
+  },
+  "Под заказ": {
+    "en": "To order",
+    "zh": "订购",
+    "pt": "Para pedir",
+    "sr": "По наруџби",
+    "es": "Para ordenar",
+    "ar": "للطلب",
+    "de": "Auf Bestellung"
+  },
+  "Поддерживаются JPG, PNG, WEBP и AVIF.": {
+    "en": "JPG, PNG, WEBP and AVIF are supported.",
+    "zh": "支持 JPG、PNG、WEBP 和 AVIF。",
+    "pt": "JPG, PNG, WEBP e AVIF são suportados.",
+    "sr": "Подржани су ЈПГ, ПНГ, ВЕБП и АВИФ.",
+    "es": "Se admiten JPG, PNG, WEBP y AVIF.",
+    "ar": "يتم دعم JPG، PNG، WEBP وAVIF.",
+    "de": "JPG, PNG, WEBP und AVIF werden unterstützt."
+  },
+  "Подождите…": {
+    "en": "Wait…",
+    "zh": "等待…",
+    "pt": "Espere…",
+    "sr": "чекај…",
+    "es": "Esperar…",
+    "ar": "انتظر…",
+    "de": "Warten…"
+  },
+  "Подписаться": {
+    "en": "Subscribe",
+    "zh": "订阅",
+    "pt": "Inscrever-se",
+    "sr": "Претплатите се",
+    "es": "Suscribir",
+    "ar": "يشترك",
+    "de": "Abonnieren"
+  },
+  "Подробнее": {
+    "en": "More details",
+    "zh": "更多详情",
+    "pt": "Mais detalhes",
+    "sr": "Више детаља",
+    "es": "Más detalles",
+    "ar": "مزيد من التفاصيل",
+    "de": "Weitere Details"
+  },
+  "Подробное описание *": {
+    "en": "Detailed description *",
+    "zh": "详细说明*",
+    "pt": "Descrição detalhada *",
+    "sr": "Детаљан опис *",
+    "es": "Descripción detallada *",
+    "ar": "وصف تفصيلي *",
+    "de": "Detaillierte Beschreibung *"
+  },
+  "Поиск": {
+    "en": "Search",
+    "zh": "搜索",
+    "pt": "Procurar",
+    "sr": "Тражи",
+    "es": "Buscar",
+    "ar": "يبحث",
+    "de": "Suchen"
+  },
+  "Поиск по коллекции": {
+    "en": "Search by collection",
+    "zh": "按集合搜索",
+    "pt": "Pesquisar por coleção",
+    "sr": "Претрага по колекцији",
+    "es": "Buscar por colección",
+    "ar": "البحث عن طريق المجموعة",
+    "de": "Suche nach Sammlung"
+  },
+  "Поиск по названию…": {
+    "en": "Search by name...",
+    "zh": "按名称搜索...",
+    "pt": "Pesquise por nome...",
+    "sr": "Тражи по имену...",
+    "es": "Buscar por nombre...",
+    "ar": "البحث بالاسم...",
+    "de": "Nach Namen suchen..."
+  },
+  "Помощь": {
+    "en": "Help",
+    "zh": "帮助",
+    "pt": "Ajuda",
+    "sr": "Помоћ",
+    "es": "Ayuda",
+    "ar": "يساعد",
+    "de": "Helfen"
+  },
+  "Помощь клиентам": {
+    "en": "Customer assistance",
+    "zh": "客户协助",
+    "pt": "Assistência ao cliente",
+    "sr": "Корисничка помоћ",
+    "es": "Asistencia al cliente",
+    "ar": "مساعدة العملاء",
+    "de": "Kundenunterstützung"
+  },
+  "Попробуйте ещё раз.": {
+    "en": "Try again.",
+    "zh": "再试一次。",
+    "pt": "Tente novamente.",
+    "sr": "Покушајте поново.",
+    "es": "Intentar otra vez.",
+    "ar": "حاول ثانية.",
+    "de": "Versuchen Sie es erneut."
+  },
+  "Похожие товары": {
+    "en": "Similar products",
+    "zh": "同类产品",
+    "pt": "Produtos semelhantes",
+    "sr": "Слични производи",
+    "es": "Productos similares",
+    "ar": "منتجات مماثلة",
+    "de": "Ähnliche Produkte"
+  },
+  "премиальная одежда": {
+    "en": "premium clothing",
+    "zh": "优质服装",
+    "pt": "roupas premium",
+    "sr": "врхунска одећа",
+    "es": "ropa premium",
+    "ar": "ملابس متميزة",
+    "de": "Premium-Kleidung"
+  },
+  "Продолжить выбор": {
+    "en": "Continue selection",
+    "zh": "继续选择",
+    "pt": "Continuar seleção",
+    "sr": "Наставите са одабиром",
+    "es": "Continuar selección",
+    "ar": "متابعة الاختيار",
+    "de": "Auswahl fortsetzen"
+  },
+  "Продолжить покупки": {
+    "en": "Continue shopping",
+    "zh": "继续购物",
+    "pt": "Continuar comprando",
+    "sr": "Наставите са куповином",
+    "es": "Continuar comprando",
+    "ar": "مواصلة التسوق",
+    "de": "Weiter einkaufen"
+  },
+  "Продуманные вещи сдержанного дизайна, созданные для красивой повседневной жизни.": {
+    "en": "Thoughtful pieces with discreet design, designed for beautiful everyday life.",
+    "zh": "贴心的单品，精心设计，专为美好的日常生活而设计。",
+    "pt": "Peças pensadas e com design discreto, pensadas para o belo dia a dia.",
+    "sr": "Промишљени комади дискретног дизајна, дизајнирани за леп свакодневни живот.",
+    "es": "Piezas bien pensadas con un diseño discreto, pensadas para un bello día a día.",
+    "ar": "قطع مدروسة ذات تصميم خفي، مصممة للحياة اليومية الجميلة.",
+    "de": "Durchdachte Stücke mit dezentem Design, konzipiert für den schönen Alltag."
+  },
+  "Продуманный гардероб сдержанного дизайна. Откройте для себя вневременную одежду LUNE из исключительных натуральных материалов.": {
+    "en": "A thoughtful wardrobe with discreet design. Discover timeless LUNE clothing made from exceptional natural materials.",
+    "zh": "精心设计的衣柜。探索由优质天然材料制成的永恒 LUNE 服装。",
+    "pt": "Um guarda-roupa pensativo com design discreto. Descubra roupas LUNE atemporais feitas de materiais naturais excepcionais.",
+    "sr": "Промишљена гардероба дискретног дизајна. Откријте безвременску ЛУНЕ одећу направљену од изузетних природних материјала.",
+    "es": "Un armario bien pensado con un diseño discreto. Descubra la ropa LUNE atemporal elaborada con materiales naturales excepcionales.",
+    "ar": "خزانة ملابس مدروسة بتصميم متحفظ. اكتشف ملابس LUNE الخالدة المصنوعة من مواد طبيعية استثنائية.",
+    "de": "Eine durchdachte Garderobe mit dezentem Design. Entdecken Sie zeitlose LUNE-Kleidung aus außergewöhnlichen Naturmaterialien."
+  },
+  "Продуманный дизайн": {
+    "en": "Thoughtful design",
+    "zh": "贴心设计",
+    "pt": "Design bem pensado",
+    "sr": "Промишљен дизајн",
+    "es": "Diseño bien pensado",
+    "ar": "تصميم مدروس",
+    "de": "Durchdachtes Design"
+  },
+  "Произошла ошибка.": {
+    "en": "An error has occurred.",
+    "zh": "发生错误。",
+    "pt": "Ocorreu um erro.",
+    "sr": "Дошло је до грешке.",
+    "es": "Ha ocurrido un error.",
+    "ar": "لقد حدث خطأ.",
+    "de": "Es ist ein Fehler aufgetreten."
+  },
+  "Работа мастера": {
+    "en": "Master's work",
+    "zh": "大师的作品",
+    "pt": "Trabalho de mestre",
+    "sr": "Магистарски рад",
+    "es": "trabajo de maestro",
+    "ar": "عمل الماجستير",
+    "de": "Meisterwerk"
+  },
+  "Разделы CMS": {
+    "en": "CMS sections",
+    "zh": "内容管理系统部分",
+    "pt": "Seções CMS",
+    "sr": "ЦМС секције",
+    "es": "Secciones CMS",
+    "ar": "أقسام نظام إدارة المحتوى",
+    "de": "CMS-Abschnitte"
+  },
+  "Разделяйте размеры запятыми": {
+    "en": "Separate sizes with commas",
+    "zh": "用逗号分隔尺寸",
+    "pt": "Separe os tamanhos com vírgulas",
+    "sr": "Одвојите величине зарезима",
+    "es": "Separar tamaños con comas",
+    "ar": "أحجام منفصلة بفواصل",
+    "de": "Trennen Sie Größen durch Kommas"
+  },
+  "Размер": {
+    "en": "Size",
+    "zh": "尺寸",
+    "pt": "Tamanho",
+    "sr": "Величина",
+    "es": "Tamaño",
+    "ar": "مقاس",
+    "de": "Größe"
+  },
+  "Размер и посадка": {
+    "en": "Size and fit",
+    "zh": "尺寸和合身性",
+    "pt": "Tamanho e ajuste",
+    "sr": "Величина и уклапање",
+    "es": "Tamaño y ajuste",
+    "ar": "الحجم والملاءمة",
+    "de": "Größe und Passform"
+  },
+  "Размеры": {
+    "en": "Dimensions",
+    "zh": "方面",
+    "pt": "Dimensões",
+    "sr": "Димензије",
+    "es": "Dimensiones",
+    "ar": "أبعاد",
+    "de": "Abmessungen"
+  },
+  "Редактирование": {
+    "en": "Editing",
+    "zh": "编辑",
+    "pt": "Edição",
+    "sr": "Уређивање",
+    "es": "Edición",
+    "ar": "التحرير",
+    "de": "Bearbeitung"
+  },
+  "Редкое сочетание комфорта и архитектурного силуэта. Качество обработки заметно в каждой детали.": {
+    "en": "A rare combination of comfort and architectural silhouette. The quality of processing is noticeable in every detail.",
+    "zh": "舒适性与建筑轮廓的罕见结合。加工质量在每个细节上都引人注目。",
+    "pt": "Uma rara combinação de conforto e silhueta arquitetônica. A qualidade do processamento é perceptível em cada detalhe.",
+    "sr": "Ретка комбинација удобности и архитектонске силуете. Квалитет обраде је приметан у сваком детаљу.",
+    "es": "Una rara combinación de comodidad y silueta arquitectónica. La calidad del procesamiento se nota en cada detalle.",
+    "ar": "مزيج نادر من الراحة والصورة الظلية المعمارية. جودة المعالجة ملحوظة في كل التفاصيل.",
+    "de": "Eine seltene Kombination aus Komfort und architektonischer Silhouette. Die Qualität der Verarbeitung ist in jedem Detail spürbar."
+  },
+  "Российские размеры *": {
+    "en": "Russian sizes *",
+    "zh": "俄罗斯尺寸 *",
+    "pt": "Tamanhos russos *",
+    "sr": "Руске величине *",
+    "es": "Tallas rusas *",
+    "ar": "المقاسات الروسية *",
+    "de": "Russische Größen *"
+  },
+  "Русский": {
+    "en": "Russian",
+    "zh": "俄语",
+    "pt": "russo",
+    "sr": "руски",
+    "es": "ruso",
+    "ar": "الروسية",
+    "de": "Russisch"
+  },
+  "Самовывоз": {
+    "en": "Pickup",
+    "zh": "捡起",
+    "pt": "Escolher",
+    "sr": "Пицкуп",
+    "es": "Levantar",
+    "ar": "يلتقط",
+    "de": "Abholen"
+  },
+  "свитер": {
+    "en": "sweater",
+    "zh": "毛衣",
+    "pt": "suéter",
+    "sr": "џемпер",
+    "es": "suéter",
+    "ar": "سترة",
+    "de": "Pullover"
+  },
+  "Связаться": {
+    "en": "Contact",
+    "zh": "接触",
+    "pt": "Contato",
+    "sr": "Контакт",
+    "es": "Contacto",
+    "ar": "اتصال",
+    "de": "Kontakt"
+  },
+  "Сессия защищена и автоматически завершится через 7 дней.": {
+    "en": "The session is protected and will automatically end after 7 days.",
+    "zh": "该会话受到保护，并将在 7 天后自动结束。",
+    "pt": "A sessão está protegida e terminará automaticamente após 7 dias.",
+    "sr": "Сесија је заштићена и аутоматски ће се завршити након 7 дана.",
+    "es": "La sesión está protegida y finalizará automáticamente después de 7 días.",
+    "ar": "الجلسة محمية وستنتهي تلقائيًا بعد 7 أيام.",
+    "de": "Die Sitzung ist geschützt und endet automatisch nach 7 Tagen."
+  },
+  "Сеул, Южная Корея": {
+    "en": "Seoul, South Korea",
+    "zh": "韩国首尔",
+    "pt": "Seul, Coreia do Sul",
+    "sr": "Сеул, Јужна Кореја",
+    "es": "Seúl, Corea del Sur",
+    "ar": "سيول، كوريا الجنوبية",
+    "de": "Seoul, Südkorea"
+  },
+  "Скульптурное пальто": {
+    "en": "Sculpted coat",
+    "zh": "塑形外套",
+    "pt": "Casaco esculpido",
+    "sr": "Вајани капут",
+    "es": "Abrigo esculpido",
+    "ar": "معطف منحوت",
+    "de": "Geformter Mantel"
+  },
+  "Служба поддержки LUNE": {
+    "en": "LUNE Help Desk",
+    "zh": "LUNE 服务台",
+    "pt": "Central de Atendimento LUNE",
+    "sr": "ЛУНЕ Хелп Деск",
+    "es": "Mesa de ayuda LUNE",
+    "ar": "مكتب مساعدة لون",
+    "de": "LUNE-Helpdesk"
+  },
+  "Смесовый шёлк": {
+    "en": "Silk blend",
+    "zh": "丝绸混纺",
+    "pt": "Mistura de seda",
+    "sr": "Свилена мешавина",
+    "es": "Mezcla de seda",
+    "ar": "مزيج الحرير",
+    "de": "Seidenmischung"
+  },
+  "Смотреть коллекцию": {
+    "en": "View collection",
+    "zh": "查看收藏",
+    "pt": "Ver coleção",
+    "sr": "Прикажи колекцију",
+    "es": "Ver colección",
+    "ar": "عرض المجموعة",
+    "de": "Sammlung ansehen"
+  },
+  "Сначала изменённые": {
+    "en": "Changed first",
+    "zh": "先改了",
+    "pt": "Alterado primeiro",
+    "sr": "Прво променио",
+    "es": "cambiado primero",
+    "ar": "تغيرت أولا",
+    "de": "Zuerst geändert"
+  },
+  "Создание": {
+    "en": "Creation",
+    "zh": "创建",
+    "pt": "Criação",
+    "sr": "Стварање",
+    "es": "Creación",
+    "ar": "الخلق",
+    "de": "Schaffung"
+  },
+  "Создание владельца": {
+    "en": "Creating an Owner",
+    "zh": "创建所有者",
+    "pt": "Criando um proprietário",
+    "sr": "Креирање власника",
+    "es": "Creando un propietario",
+    "ar": "إنشاء مالك",
+    "de": "Einen Eigentümer erstellen"
+  },
+  "Создано в Москве": {
+    "en": "Created in Moscow",
+    "zh": "创建于莫斯科",
+    "pt": "Criado em Moscou",
+    "sr": "Створен у Москви",
+    "es": "Creado en Moscú",
+    "ar": "تم إنشاؤها في موسكو",
+    "de": "Erstellt in Moskau"
+  },
+  "Создано надолго": {
+    "en": "Built to last",
+    "zh": "经久耐用",
+    "pt": "Construído para durar",
+    "sr": "Направљен да траје",
+    "es": "Construido para durar",
+    "ar": "بنيت لتدوم",
+    "de": "Gebaut für die Ewigkeit"
+  },
+  "Создать аккаунт": {
+    "en": "Create an account",
+    "zh": "创建一个帐户",
+    "pt": "Crie uma conta",
+    "sr": "Креирајте налог",
+    "es": "Crear una cuenta",
+    "ar": "إنشاء حساب",
+    "de": "Ein Konto erstellen"
+  },
+  "Сортировка": {
+    "en": "Sorting",
+    "zh": "排序",
+    "pt": "Classificando",
+    "sr": "Сортирање",
+    "es": "Clasificación",
+    "ar": "فرز",
+    "de": "Sortierung"
+  },
+  "Состав и уход": {
+    "en": "Composition and care",
+    "zh": "成分和护理",
+    "pt": "Composição e cuidado",
+    "sr": "Састав и нега",
+    "es": "Composición y cuidados",
+    "ar": "التكوين والرعاية",
+    "de": "Zusammensetzung und Pflege"
+  },
+  "Состав: 100% тонкая мериносовая шерсть. Ручная стирка в прохладной воде до 30 °C со средством для шерсти, без замачивания и трения. Аккуратно удалите влагу через полотенце, не выкручивая изделие. Сушите только горизонтально, придав первоначальную форму. Не отбеливать и не сушить в машине. Храните в сложенном виде; для защиты натурального волокна используйте средство от моли.": {
+    "en": "Composition: 100% fine merino wool. Hand wash in cool water up to 30°C with wool detergent, without soaking or rubbing. Gently remove moisture through a towel without twisting the product. Dry only horizontally, giving it its original shape. Do not bleach or tumble dry. Store folded; Use moth repellent to protect natural fibers.",
+    "zh": "成分：100% 细美利奴羊毛。用羊毛洗涤剂在 30°C 以下的冷水中手洗，不可浸泡或揉搓。用毛巾轻轻除去水分，不要扭曲产品。仅水平干燥，使其保持原始形状。请勿漂白或滚筒烘干。折叠存放；使用防蛀剂来保护天然纤维。",
+    "pt": "Composição: 100% lã merino fina. Lavar à mão em água fria até 30°C com detergente para lã, sem molhar nem esfregar. Remova suavemente a umidade através de uma toalha sem torcer o produto. Seque apenas na horizontal, dando-lhe a forma original. Não use alvejante nem seque na máquina. Armazene dobrado; Use repelente de traças para proteger as fibras naturais.",
+    "sr": "Састав: 100% фина мерино вуна. Ручно прање у хладној води до 30°Ц са детерџентом за вуну, без намакања и трљања. Нежно уклоните влагу кроз пешкир без увртања производа. Сушите само хоризонтално, дајући му оригинални облик. Немојте избељивати или сушити у сушилици. Чувати преклопљено; Користите репелент против мољаца да заштитите природна влакна.",
+    "es": "Composición: 100% lana fina merino. Lavar a mano en agua fría hasta 30°C con detergente para lana, sin remojar ni frotar. Retire suavemente la humedad a través de una toalla sin retorcer el producto. Secar sólo en horizontal, dándole su forma original. No usar lejía ni secar en secadora. Almacenar plegado; Utilice repelente de polillas para proteger las fibras naturales.",
+    "ar": "التركيب: 100% صوف ميرينو ناعم. يُغسل يدويًا بماء بارد حتى 30 درجة مئوية باستخدام منظف الصوف، دون نقع أو فرك. قم بإزالة الرطوبة بلطف من خلال المنشفة دون لف المنتج. يجفف بشكل أفقي فقط، مما يعطيه شكله الأصلي. لا تستخدم المبيضات أو التجفيف بالمجفف. مخزن مطوية؛ استخدم طارد العثة لحماية الألياف الطبيعية.",
+    "de": "Zusammensetzung: 100 % feine Merinowolle. Handwäsche in kaltem Wasser bis 30°C mit Wollwaschmittel, ohne Einweichen oder Reiben. Entfernen Sie die Feuchtigkeit vorsichtig mit einem Handtuch, ohne das Produkt zu verdrehen. Nur horizontal trocknen, damit es seine ursprüngliche Form erhält. Nicht bleichen oder im Wäschetrockner trocknen. Gefaltet aufbewahren; Verwenden Sie Mottenschutzmittel, um Naturfasern zu schützen."
+  },
+  "Состав: 72% вискоза, 28% натуральный шёлк. Деликатная профессиональная химчистка предпочтительна. При ручном уходе используйте прохладную воду до 30 °C и нейтральное средство для шёлка, не замачивайте и не выкручивайте ткань. Сушите горизонтально вдали от солнца и нагревательных приборов. Гладьте с изнаночной стороны при низкой температуре через тонкую ткань. Храните на мягких плечиках, чтобы сохранить драпировку.": {
+    "en": "Composition: 72% viscose, 28% natural silk. Delicate professional dry cleaning is preferred. When cleaning by hand, use cool water up to 30°C and a neutral silk detergent; do not soak or wring the fabric. Dry horizontally away from the sun and heat. Iron from the reverse side at low temperature through a thin fabric. Store on padded hangers to maintain drape.",
+    "zh": "成分：72% 粘胶纤维，28% 天然丝。精致专业干洗是首选。手洗时，请使用30°C以下的冷水和中性丝绸清洁剂；请勿浸泡或拧绞织物。水平干燥，远离阳光和热量。穿过薄织物从反面低温熨烫。存放在带衬垫的衣架上以保持悬垂性。",
+    "pt": "Composição: 72% viscose, 28% seda natural. É preferível uma lavagem a seco profissional delicada. Na limpeza manual, utilize água fria até 30°C e detergente neutro para seda; não molhe nem torça o tecido. Seque horizontalmente longe do sol e do calor. Passe a ferro pelo verso em baixa temperatura através de um tecido fino. Guarde em cabides acolchoados para manter o caimento.",
+    "sr": "Састав: 72% вискоза, 28% природна свила. Пожељно је деликатно професионално хемијско чишћење. Када чистите ручно, користите хладну воду до 30°Ц и неутрални детерџент за свилу; немојте намакати или цедити тканину. Сушите хоризонтално даље од сунца и топлоте. Пеглајте са полеђине на ниској температури кроз танку тканину. Чувајте на подстављеним вешалицама да бисте одржали застор.",
+    "es": "Composición: 72% viscosa, 28% seda natural. Se prefiere la limpieza en seco profesional y delicada. Cuando limpie a mano, utilice agua fría hasta 30°C y un detergente de seda neutro; no remoje ni escurra la tela. Secar en horizontal lejos del sol y del calor. Planchar por el reverso a baja temperatura a través de un tejido fino. Guárdelo en perchas acolchadas para mantener la caída.",
+    "ar": "التركيب: 72% فيسكوز، 28% حرير طبيعي. يفضل التنظيف الجاف الاحترافي الدقيق. عند التنظيف يدويًا، استخدم الماء البارد حتى 30 درجة مئوية ومنظف حريري محايد؛ لا تنقع أو تعصر القماش. يجفف أفقياً بعيداً عن الشمس والحرارة. قم بالكي من الجانب العكسي بدرجة حرارة منخفضة من خلال قماش رقيق. تخزينها على الشماعات المبطنة للحفاظ على الستارة.",
+    "de": "Zusammensetzung: 72 % Viskose, 28 % Naturseide. Eine sorgfältige professionelle chemische Reinigung wird bevorzugt. Verwenden Sie bei der Reinigung per Hand kühles Wasser bis 30°C und ein neutrales Seidenwaschmittel; Den Stoff nicht einweichen oder auswringen. Horizontal trocknen, vor Sonne und Hitze schützen. Von der Rückseite bei niedriger Temperatur durch einen dünnen Stoff bügeln. Auf gepolsterten Kleiderbügeln aufbewahren, um den Fall zu bewahren."
+  },
+  "Состав: 80% натуральная шерсть, 15% кашемир, 5% полиамид; подкладка — 100% вискоза. Рекомендуется профессиональная деликатная химчистка. Не стирать, не отбеливать и не сушить в машине. После носки проветривайте изделие на широких плечиках, храните в дышащем чехле вдали от прямого света. Небольшие заломы допустимо отпаривать с расстояния на минимальной температуре.": {
+    "en": "Composition: 80% natural wool, 15% cashmere, 5% polyamide; lining - 100% viscose. Professional gentle dry cleaning is recommended. Do not wash, bleach or tumble dry. After wearing, ventilate the product on wide hangers, store in a breathable case away from direct light. Small creases can be steamed from a distance at a minimum temperature.",
+    "zh": "成分：80% 天然羊毛、15% 羊绒、5% 聚酰胺；衬里 - 100% 粘胶纤维。建议专业温和干洗。请勿水洗、漂白或滚筒烘干。佩戴后，将产品放在宽衣架上通风，并存放在透气的盒子中，远离直射光。小折痕可以在最低温度下从远处蒸出。",
+    "pt": "Composição: 80% lã natural, 15% caxemira, 5% poliamida; forro - 100% viscose. Recomenda-se uma limpeza a seco suave profissional. Não lave, use alvejante ou seque na máquina. Após o uso, ventile o produto em cabides largos, guarde em um estojo respirável e longe da luz direta. Pequenos vincos podem ser vaporizados à distância e a uma temperatura mínima.",
+    "sr": "Састав: 80% природна вуна, 15% кашмир, 5% полиамид; подстава - 100% вискоза. Препоручује се професионално нежно хемијско чишћење. Немојте прати, избељивати или сушити у сушилици. Након ношења, вентилирајте производ на широким вјешалицама, чувајте у футроли која дише даље од директне свјетлости. Мале наборе се могу парити са удаљености на минималној температури.",
+    "es": "Composición: 80% lana natural, 15% cachemira, 5% poliamida; forro - 100% viscosa. Se recomienda una limpieza en seco suave y profesional. No lavar, usar lejía ni secar en secadora. Después de usarlo, ventile el producto en perchas anchas y guárdelo en un estuche transpirable lejos de la luz directa. Las pequeñas arrugas se pueden vaporizar a distancia y a una temperatura mínima.",
+    "ar": "التركيب: 80% صوف طبيعي, 15% كشمير, 5% بولي أميد; البطانة - 100% فيسكوز. يوصى بالتنظيف الجاف الاحترافي. لا تغسل أو تستخدم المبيضات أو تجفف بالمجفف. بعد الارتداء، قم بتهوية المنتج على علاقات واسعة، ثم قم بتخزينه في علبة قابلة للتنفس بعيدًا عن الضوء المباشر. يمكن تبخير التجاعيد الصغيرة من مسافة عند أدنى درجة حرارة.",
+    "de": "Zusammensetzung: 80 % Naturwolle, 15 % Kaschmir, 5 % Polyamid; Futter – 100 % Viskose. Eine professionelle schonende chemische Reinigung wird empfohlen. Nicht waschen, bleichen oder im Trockner trocknen. Lüften Sie das Produkt nach dem Tragen auf breiten Kleiderbügeln und bewahren Sie es in einer atmungsaktiven Hülle ohne direktes Licht auf. Kleinere Falten können bei minimaler Temperatur aus der Ferne gedämpft werden."
+  },
+  "Состав: 96% итальянская шерсть, 4% эластан; подкладка карманов — 100% хлопок. Рекомендуется деликатная химчистка. Между носками давайте изделию отдохнуть не менее суток и храните брюки на вешалке с зажимами. Не стирать в машине, не отбеливать и не сушить в барабане. Локальные заломы расправляйте паром без прямого контакта утюга с тканью.": {
+    "en": "Composition: 96% Italian wool, 4% elastane; pocket lining - 100% cotton. Delicate dry cleaning is recommended. Allow the garment to rest for at least a day between wears and store your trousers on a hanger with clips. Do not machine wash, do not bleach or tumble dry. Straighten local creases with steam without direct contact of the iron with the fabric.",
+    "zh": "成分：96% 意大利羊毛，4% 弹性纤维；口袋衬里 - 100% 棉。建议精细干洗。让衣服在穿着之间至少休息一天，并将裤子用夹子挂在衣架上。不可机洗、不可漂白或滚筒烘干。用蒸汽拉直局部折痕，不要让熨斗直接接触织物。",
+    "pt": "Composição: 96% lã italiana, 4% elastano; forro do bolso - 100% algodão. Recomenda-se uma limpeza a seco delicada. Deixe a peça descansar por pelo menos um dia entre os usos e guarde as calças em um cabide com prendedores. Não lavar na máquina, não usar alvejante ou secar na máquina. Alise os vincos locais com vapor sem contato direto do ferro com o tecido.",
+    "sr": "Састав: 96% италијанска вуна, 4% еластин; подстава џепова - 100% памук. Препоручује се деликатно хемијско чишћење. Оставите одећу да одстоји најмање један дан између ношења и одложите панталоне на вешалицу са копчама. Не перите у машини, немојте белити или сушити у сушилици. Исправите локалне наборе паром без директног контакта пегле са тканином.",
+    "es": "Composición: 96% lana italiana, 4% elastano; forro de bolsillo - 100% algodón. Se recomienda una limpieza en seco delicada. Deje reposar la prenda durante al menos un día entre usos y guarde los pantalones en una percha con clips. No lavar a máquina, no usar lejía ni secar en secadora. Alisa las arrugas locales con vapor sin contacto directo de la plancha con el tejido.",
+    "ar": "التركيب: 96% صوف إيطالي، 4% إيلاستين؛ بطانة الجيب - 100% قطن. يوصى بالتنظيف الجاف الدقيق. اسمح للملابس بالراحة لمدة يوم على الأقل بين مرات ارتدائها وقم بتخزين بنطالك على علاقة بها مشابك. لا تغسل في الغسالة، ولا تستخدم المبيضات أو التجفيف بالمجفف. قم بتسوية التجاعيد المحلية بالبخار دون ملامسة المكواة للقماش بشكل مباشر.",
+    "de": "Zusammensetzung: 96 % italienische Wolle, 4 % Elasthan; Taschenfutter – 100 % Baumwolle. Eine schonende chemische Reinigung wird empfohlen. Lassen Sie das Kleidungsstück zwischen dem Tragen mindestens einen Tag ruhen und bewahren Sie Ihre Hose auf einem Kleiderbügel mit Clips auf. Nicht in der Maschine waschen, nicht bleichen oder im Trockner trocknen. Glätten Sie lokale Falten mit Dampf, ohne dass das Bügeleisen den Stoff direkt berührt."
+  },
+  "Сохранение…": {
+    "en": "Saving…",
+    "zh": "保存…",
+    "pt": "Salvando…",
+    "sr": "Чување…",
+    "es": "Ahorro…",
+    "ar": "توفير…",
+    "de": "Sparen…"
+  },
+  "Сохранённые вещи": {
+    "en": "Saved items",
+    "zh": "已保存的项目",
+    "pt": "Itens salvos",
+    "sr": "Сачуване ставке",
+    "es": "Artículos guardados",
+    "ar": "العناصر المحفوظة",
+    "de": "Gespeicherte Artikel"
+  },
+  "Сохранить товар": {
+    "en": "Save product",
+    "zh": "保存产品",
+    "pt": "Salvar produto",
+    "sr": "Сачувајте производ",
+    "es": "Guardar producto",
+    "ar": "حفظ المنتج",
+    "de": "Produkt speichern"
+  },
+  "Спасибо за заказ": {
+    "en": "Thanks for your order",
+    "zh": "感谢您的订单",
+    "pt": "Obrigado pelo seu pedido",
+    "sr": "Хвала на наруџбини",
+    "es": "Gracias por tu pedido",
+    "ar": "شكرا لطلبك",
+    "de": "Vielen Dank für Ihre Bestellung"
+  },
+  "Спасибо за подписку.": {
+    "en": "Thanks for subscribing.",
+    "zh": "感谢您的订阅。",
+    "pt": "Obrigado por se inscrever.",
+    "sr": "Хвала на претплати.",
+    "es": "Gracias por suscribirte.",
+    "ar": "شكرا للاشتراك.",
+    "de": "Vielen Dank für Ihr Abonnement."
+  },
+  "Список пока пуст": {
+    "en": "The list is still empty",
+    "zh": "列表仍然是空的",
+    "pt": "A lista ainda está vazia",
+    "sr": "Листа је и даље празна",
+    "es": "La lista todavía está vacía.",
+    "ar": "القائمة لا تزال فارغة",
+    "de": "Die Liste ist noch leer"
+  },
+  "Статус": {
+    "en": "Status",
+    "zh": "地位",
+    "pt": "Status",
+    "sr": "Статус",
+    "es": "Estado",
+    "ar": "حالة",
+    "de": "Status"
+  },
+  "Статус *": {
+    "en": "Status *",
+    "zh": "地位 *",
+    "pt": "Status *",
+    "sr": "Статус *",
+    "es": "Estado *",
+    "ar": "حالة *",
+    "de": "Status *"
+  },
+  "Струящееся платье": {
+    "en": "Flowy dress",
+    "zh": "飘逸连衣裙",
+    "pt": "Vestido fluido",
+    "sr": "Флови хаљина",
+    "es": "Vestido fluido",
+    "ar": "فستان فلوي",
+    "de": "Fließendes Kleid"
+  },
+  "Струящееся платье прямого силуэта с деликатной драпировкой. Материал мягко отражает свет и сохраняет форму в течение всего дня.": {
+    "en": "A flowing dress with a straight silhouette and delicate drapery. The material softly reflects light and retains its shape throughout the day.",
+    "zh": "飘逸连衣裙，廓形笔直，垂坠精致。该材料可柔和地反射光线并全天保持其形状。",
+    "pt": "Vestido fluido com silhueta reta e drapeado delicado. O material reflete suavemente a luz e mantém sua forma durante todo o dia.",
+    "sr": "Лепа хаљина равне силуете и деликатне драперије. Материјал меко рефлектује светлост и задржава свој облик током целог дана.",
+    "es": "Un vestido fluido de silueta recta y delicado drapeado. El material refleja suavemente la luz y conserva su forma durante todo el día.",
+    "ar": "فستان متدفق مع صورة ظلية مستقيمة وستائر رقيقة. تعكس المادة الضوء بهدوء وتحتفظ بشكلها طوال اليوم.",
+    "de": "Ein fließendes Kleid mit gerader Silhouette und zarter Drapierung. Das Material reflektiert das Licht sanft und behält den ganzen Tag über seine Form."
+  },
+  "Студия LUNE": {
+    "en": "Studio LUNE",
+    "zh": "月月工作室",
+    "pt": "Estúdio LUA",
+    "sr": "Студио ЛУНЕ",
+    "es": "Estudio LUNA",
+    "ar": "استوديو لون",
+    "de": "Studio LUNE"
+  },
+  "Таблица размеров": {
+    "en": "Size Chart",
+    "zh": "尺码表",
+    "pt": "Tabela de tamanhos",
+    "sr": "Табела величина",
+    "es": "Tabla de tallas",
+    "ar": "مخطط الحجم",
+    "de": "Größentabelle"
+  },
+  "Талия": {
+    "en": "Waist",
+    "zh": "腰部",
+    "pt": "Cintura",
+    "sr": "струк",
+    "es": "Cintura",
+    "ar": "وَسَط",
+    "de": "Taille"
+  },
+  "Телефон": {
+    "en": "Telephone",
+    "zh": "电话",
+    "pt": "Telefone",
+    "sr": "Телефон",
+    "es": "Teléfono",
+    "ar": "هاتف",
+    "de": "Telefon"
+  },
+  "Тёплый песочный": {
+    "en": "Warm sand",
+    "zh": "温暖的沙子",
+    "pt": "Areia quente",
+    "sr": "Топли песак",
+    "es": "arena tibia",
+    "ar": "الرمال الدافئة",
+    "de": "Warmer Sand"
+  },
+  "тихая роскошь": {
+    "en": "quiet luxury",
+    "zh": "安静的奢华",
+    "pt": "luxo tranquilo",
+    "sr": "тихи луксуз",
+    "es": "lujo tranquilo",
+    "ar": "ترف هادئ",
+    "de": "ruhiger Luxus"
+  },
+  "Тихие формы для современной жизни.": {
+    "en": "Quiet forms for modern living.",
+    "zh": "适合现代生活的安静形式。",
+    "pt": "Formas tranquilas para a vida moderna.",
+    "sr": "Мирне форме за модеран живот.",
+    "es": "Formas tranquilas para la vida moderna.",
+    "ar": "أشكال هادئة للحياة الحديثة.",
+    "de": "Ruhige Formen für modernes Wohnen."
+  },
+  "Тихие формы.": {
+    "en": "Quiet forms.",
+    "zh": "安静的形式。",
+    "pt": "Formas tranquilas.",
+    "sr": "Тихе форме.",
+    "es": "Formas tranquilas.",
+    "ar": "أشكال هادئة.",
+    "de": "Ruhige Formen."
+  },
+  "тихой уверенности.": {
+    "en": "quiet confidence.",
+    "zh": "安静的信心。",
+    "pt": "confiança tranquila.",
+    "sr": "тихо поверење.",
+    "es": "confianza tranquila.",
+    "ar": "الثقة الهادئة.",
+    "de": "ruhiges Vertrauen."
+  },
+  "Товар": {
+    "en": "Product",
+    "zh": "产品",
+    "pt": "Produto",
+    "sr": "Производ",
+    "es": "Producto",
+    "ar": "منتج",
+    "de": "Produkt"
+  },
+  "Товар не найден": {
+    "en": "Product not found",
+    "zh": "未找到产品",
+    "pt": "Produto não encontrado",
+    "sr": "Производ није пронађен",
+    "es": "Producto no encontrado",
+    "ar": "لم يتم العثور على المنتج",
+    "de": "Produkt nicht gefunden"
+  },
+  "Товар не найден.": {
+    "en": "Product not found.",
+    "zh": "未找到产品。",
+    "pt": "Produto não encontrado.",
+    "sr": "Производ није пронађен.",
+    "es": "Producto no encontrado.",
+    "ar": "لم يتم العثور على المنتج.",
+    "de": "Produkt nicht gefunden."
+  },
+  "Товар удалён.": {
+    "en": "Product removed.",
+    "zh": "产品已移除。",
+    "pt": "Produto removido.",
+    "sr": "Производ је уклоњен.",
+    "es": "Producto eliminado.",
+    "ar": "تمت إزالة المنتج.",
+    "de": "Produkt entfernt."
+  },
+  "Товар успешно добавлен.": {
+    "en": "Product added successfully.",
+    "zh": "产品添加成功。",
+    "pt": "Produto adicionado com sucesso.",
+    "sr": "Производ је успешно додат.",
+    "es": "Producto agregado exitosamente.",
+    "ar": "تمت إضافة المنتج بنجاح.",
+    "de": "Produkt erfolgreich hinzugefügt."
+  },
+  "Товар успешно изменён.": {
+    "en": "The product has been successfully changed.",
+    "zh": "产品已成功变更。",
+    "pt": "O produto foi alterado com sucesso.",
+    "sr": "Производ је успешно промењен.",
+    "es": "El producto ha sido cambiado exitosamente.",
+    "ar": "تم تغيير المنتج بنجاح.",
+    "de": "Das Produkt wurde erfolgreich geändert."
+  },
+  "товара": {
+    "en": "goods",
+    "zh": "商品",
+    "pt": "bens",
+    "sr": "робе",
+    "es": "bienes",
+    "ar": "بضائع",
+    "de": "Waren"
+  },
+  "Товары": {
+    "en": "Goods",
+    "zh": "商品",
+    "pt": "Bens",
+    "sr": "Роба",
+    "es": "Bienes",
+    "ar": "بضائع",
+    "de": "Waren"
+  },
+  "Товары не найдены.": {
+    "en": "No products found.",
+    "zh": "没有找到产品。",
+    "pt": "Nenhum produto encontrado.",
+    "sr": "Нема пронађених производа.",
+    "es": "No se encontraron productos.",
+    "ar": "لم يتم العثور على منتجات.",
+    "de": "Keine Produkte gefunden."
+  },
+  "Товары:": {
+    "en": "Goods:",
+    "zh": "商品：",
+    "pt": "Bens:",
+    "sr": "роба:",
+    "es": "Bienes:",
+    "ar": "بضائع:",
+    "de": "Waren:"
+  },
+  "Токио, Япония": {
+    "en": "Tokyo, Japan",
+    "zh": "日本东京",
+    "pt": "Tóquio, Japão",
+    "sr": "Токио, Јапан",
+    "es": "Tokio, Japón",
+    "ar": "طوكيو، اليابان",
+    "de": "Tokio, Japan"
+  },
+  "Точные пропорции и выразительные детали. Ничего лишнего.": {
+    "en": "Precise proportions and expressive details. Nothing extra.",
+    "zh": "精确的比例和富有表现力的细节。没什么额外的。",
+    "pt": "Proporções precisas e detalhes expressivos. Nada extra.",
+    "sr": "Прецизне пропорције и изражајни детаљи. Ништа екстра.",
+    "es": "Proporciones precisas y detalles expresivos. Nada extra.",
+    "ar": "أبعاد دقيقة وتفاصيل معبرة. لا شيء إضافي.",
+    "de": "Präzise Proportionen und ausdrucksstarke Details. Nichts Besonderes."
+  },
+  "Требуют внимания": {
+    "en": "Need attention",
+    "zh": "需要注意",
+    "pt": "Precisa de atenção",
+    "sr": "Потребна је пажња",
+    "es": "Necesito atención",
+    "ar": "بحاجة الى الاهتمام",
+    "de": "Brauche Aufmerksamkeit"
+  },
+  "трикотаж": {
+    "en": "knitwear",
+    "zh": "针织品",
+    "pt": "malhas",
+    "sr": "трикотаже",
+    "es": "prendas de punto",
+    "ar": "تريكو",
+    "de": "Strickwaren"
+  },
+  "Трикотаж": {
+    "en": "Knitwear",
+    "zh": "针织品",
+    "pt": "Malhas",
+    "sr": "Трикотажа",
+    "es": "Prendas de punto",
+    "ar": "تريكو",
+    "de": "Strickwaren"
+  },
+  "Уведомить о появлении": {
+    "en": "Notify when available",
+    "zh": "可用时通知",
+    "pt": "Avise quando disponível",
+    "sr": "Обавести када буде доступно",
+    "es": "Avisar cuando esté disponible",
+    "ar": "إعلام عندما تكون متاحة",
+    "de": "Benachrichtigen, wenn verfügbar"
+  },
+  "Увеличить количество": {
+    "en": "Increase quantity",
+    "zh": "增加数量",
+    "pt": "Aumentar quantidade",
+    "sr": "Повећајте количину",
+    "es": "aumentar cantidad",
+    "ar": "زيادة الكمية",
+    "de": "Menge erhöhen"
+  },
+  "Угольный": {
+    "en": "Carbonic",
+    "zh": "碳酸",
+    "pt": "Carbônico",
+    "sr": "Царбониц",
+    "es": "Carbónico",
+    "ar": "فحمي",
+    "de": "Kohlensäurehaltig"
+  },
+  "Удалить": {
+    "en": "Delete",
+    "zh": "删除",
+    "pt": "Excluir",
+    "sr": "Избриши",
+    "es": "Borrar",
+    "ar": "يمسح",
+    "de": "Löschen"
+  },
+  "Удалить фотографию": {
+    "en": "Delete photo",
+    "zh": "删除照片",
+    "pt": "Excluir foto",
+    "sr": "Избриши фотографију",
+    "es": "eliminar foto",
+    "ar": "حذف الصورة",
+    "de": "Foto löschen"
+  },
+  "Укажите корректную цену.": {
+    "en": "Please enter the correct price.",
+    "zh": "请输入正确的价格。",
+    "pt": "Por favor insira o preço correto.",
+    "sr": "Унесите тачну цену.",
+    "es": "Por favor ingrese el precio correcto.",
+    "ar": "الرجاء إدخال السعر الصحيح.",
+    "de": "Bitte geben Sie den korrekten Preis ein."
+  },
+  "Укажите название товара.": {
+    "en": "Enter the name of the product.",
+    "zh": "输入产品名称。",
+    "pt": "Digite o nome do produto.",
+    "sr": "Унесите назив производа.",
+    "es": "Introduzca el nombre del producto.",
+    "ar": "أدخل اسم المنتج.",
+    "de": "Geben Sie den Namen des Produkts ein."
+  },
+  "Укажите хотя бы один размер.": {
+    "en": "Please indicate at least one size.",
+    "zh": "请注明至少一种尺寸。",
+    "pt": "Por favor indique pelo menos um tamanho.",
+    "sr": "Наведите бар једну величину.",
+    "es": "Por favor indica al menos una talla.",
+    "ar": "يرجى الإشارة إلى حجم واحد على الأقل.",
+    "de": "Bitte geben Sie mindestens eine Größe an."
+  },
+  "ул. xxxxxxxx, д. xx": {
+    "en": "st. xxxxxxxx, d. xx",
+    "zh": "英石。 xxxxxxxx，d。 xx",
+    "pt": "rua. xxxxxxxxx, d. xx",
+    "sr": "ст. кккккккк, д. кк",
+    "es": "calle. xxxxxxx, d. xx",
+    "ar": "شارع. كسكسكسكسكسكسكس، د. xx",
+    "de": "st. xxxxxxxx, d. xx"
+  },
+  "Уменьшить количество": {
+    "en": "Reduce quantity",
+    "zh": "减少数量",
+    "pt": "Reduzir quantidade",
+    "sr": "Смањите количину",
+    "es": "Reducir cantidad",
+    "ar": "تقليل الكمية",
+    "de": "Menge reduzieren"
+  },
+  "Управление каталогом": {
+    "en": "Directory management",
+    "zh": "目录管理",
+    "pt": "Gerenciamento de diretório",
+    "sr": "Управљање имеником",
+    "es": "Gestión de directorios",
+    "ar": "إدارة الدليل",
+    "de": "Verzeichnisverwaltung"
+  },
+  "Условия": {
+    "en": "Terms",
+    "zh": "条款",
+    "pt": "Termos",
+    "sr": "Услови",
+    "es": "Términos",
+    "ar": "شروط",
+    "de": "Bedingungen"
+  },
+  "уточняется": {
+    "en": "TBC",
+    "zh": "待定",
+    "pt": "A confirmar",
+    "sr": "ТБЦ",
+    "es": "por confirmar",
+    "ar": "سيتم تحديده لاحقًا",
+    "de": "TBC"
+  },
+  "Файл должен быть меньше 8 МБ.": {
+    "en": "The file must be less than 8 MB.",
+    "zh": "文件必须小于 8 MB。",
+    "pt": "O arquivo deve ter menos de 8 MB.",
+    "sr": "Датотека мора бити мања од 8 МБ.",
+    "es": "El archivo debe tener menos de 8 MB.",
+    "ar": "يجب أن يكون حجم الملف أقل من 8 ميجابايت.",
+    "de": "Die Datei muss kleiner als 8 MB sein."
+  },
+  "Философия LUNE": {
+    "en": "LUNE Philosophy",
+    "zh": "月月理念",
+    "pt": "Filosofia LUNA",
+    "sr": "ЛУНЕ Пхилосопхи",
+    "es": "Filosofía LUNE",
+    "ar": "فلسفة لون",
+    "de": "LUNE-Philosophie"
+  },
+  "Фильтр статуса": {
+    "en": "Status filter",
+    "zh": "状态过滤器",
+    "pt": "Filtro de status",
+    "sr": "Филтер статуса",
+    "es": "Filtro de estado",
+    "ar": "مرشح الحالة",
+    "de": "Statusfilter"
+  },
+  "ФИО получателя": {
+    "en": "Recipient's name",
+    "zh": "收件人姓名",
+    "pt": "Nome do destinatário",
+    "sr": "Име примаоца",
+    "es": "Nombre del destinatario",
+    "ar": "اسم المستلم",
+    "de": "Name des Empfängers"
+  },
+  "Форма": {
+    "en": "Form",
+    "zh": "形式",
+    "pt": "Forma",
+    "sr": "Форма",
+    "es": "Forma",
+    "ar": "استمارة",
+    "de": "Bilden"
+  },
+  "Фотографии *": {
+    "en": "Photos *",
+    "zh": "照片 *",
+    "pt": "Fotos *",
+    "sr": "фотографије *",
+    "es": "Fotos *",
+    "ar": "الصور *",
+    "de": "Fotos *"
+  },
+  "Хранилище изображений недоступно.": {
+    "en": "Image storage is unavailable.",
+    "zh": "图像存储不可用。",
+    "pt": "O armazenamento de imagens não está disponível.",
+    "sr": "Складиштење слика није доступно.",
+    "es": "El almacenamiento de imágenes no está disponible.",
+    "ar": "تخزين الصور غير متوفر.",
+    "de": "Der Bildspeicher ist nicht verfügbar."
+  },
+  "Цвет": {
+    "en": "Color",
+    "zh": "颜色",
+    "pt": "Cor",
+    "sr": "Боја",
+    "es": "Color",
+    "ar": "لون",
+    "de": "Farbe"
+  },
+  "Цвет:": {
+    "en": "Color:",
+    "zh": "颜色：",
+    "pt": "Cor:",
+    "sr": "Боја:",
+    "es": "Color:",
+    "ar": "لون:",
+    "de": "Farbe:"
+  },
+  "Цена": {
+    "en": "Price",
+    "zh": "价格",
+    "pt": "Preço",
+    "sr": "Цена",
+    "es": "Precio",
+    "ar": "سعر",
+    "de": "Preis"
+  },
+  "Цена, ₽ *": {
+    "en": "Price, ₽ *",
+    "zh": "价格, ₽ *",
+    "pt": "Preço, ₽ *",
+    "sr": "Цена, ₽ *",
+    "es": "Precio, ₽ *",
+    "ar": "السعر ₽ *",
+    "de": "Preis, ₽ *"
+  },
+  "Цена: по возрастанию": {
+    "en": "Price: ascending",
+    "zh": "价格：上涨",
+    "pt": "Preço: ascendente",
+    "sr": "Цена: растућа",
+    "es": "Precio: ascendente",
+    "ar": "السعر: تصاعدي",
+    "de": "Preis: aufsteigend"
+  },
+  "Цена: по убыванию": {
+    "en": "Price: descending",
+    "zh": "价格：降价",
+    "pt": "Preço: descendente",
+    "sr": "Цена: опадајућа",
+    "es": "Precio: descendente",
+    "ar": "السعر: تنازلي",
+    "de": "Preis: absteigend"
+  },
+  "Черновик": {
+    "en": "Draft",
+    "zh": "草稿",
+    "pt": "Rascunho",
+    "sr": "Нацрт",
+    "es": "Borrador",
+    "ar": "مسودة",
+    "de": "Entwurf"
+  },
+  "Черновики": {
+    "en": "Drafts",
+    "zh": "草稿",
+    "pt": "Rascunhos",
+    "sr": "Нацрти",
+    "es": "Damas",
+    "ar": "المسودات",
+    "de": "Entwürfe"
+  },
+  "Что вы ищете?": {
+    "en": "What are you looking for?",
+    "zh": "你要买什么？",
+    "pt": "O que você está procurando?",
+    "sr": "шта тражиш?",
+    "es": "¿Qué estás buscando?",
+    "ar": "ما الذي تبحث عنه؟",
+    "de": "Wonach suchst du?"
+  },
+  "шелк": {
+    "en": "silk",
+    "zh": "丝绸",
+    "pt": "seda",
+    "sr": "свила",
+    "es": "seda",
+    "ar": "حرير",
+    "de": "Seide"
+  },
+  "шёлк": {
+    "en": "silk",
+    "zh": "丝绸",
+    "pt": "seda",
+    "sr": "свила",
+    "es": "seda",
+    "ar": "حرير",
+    "de": "Seide"
+  },
+  "шерсть": {
+    "en": "wool",
+    "zh": "羊毛",
+    "pt": "lã",
+    "sr": "вуне",
+    "es": "lana",
+    "ar": "صوف",
+    "de": "Wolle"
+  },
+  "Шерсть и кашемир": {
+    "en": "Wool and cashmere",
+    "zh": "羊毛和羊绒",
+    "pt": "Lã e caxemira",
+    "sr": "Вуна и кашмир",
+    "es": "Lana y cachemira",
+    "ar": "الصوف والكشمير",
+    "de": "Wolle und Kaschmir"
+  },
+  "штаны": {
+    "en": "trousers",
+    "zh": "裤子",
+    "pt": "calça",
+    "sr": "панталоне",
+    "es": "pantalones",
+    "ar": "بنطلون",
+    "de": "Hose"
+  },
+  "Электронная почта": {
+    "en": "E-mail",
+    "zh": "电子邮件",
+    "pt": "E-mail",
+    "sr": "Е-маил",
+    "es": "Correo electrónico",
+    "ar": "بريد إلكتروني",
+    "de": "E-Mail"
+  },
+  "эскиза до финального стежка.": {
+    "en": "sketch to the final stitch.",
+    "zh": "草图到最后一针。",
+    "pt": "esboce até o ponto final.",
+    "sr": "скица до завршног шава.",
+    "es": "boceto hasta la puntada final.",
+    "ar": "رسم للغرزة النهائية.",
+    "de": "Skizze bis zum letzten Stich."
+  },
+  "Это появится только один раз. Создайте единственный аккаунт владельца каталога.": {
+    "en": "This will only appear once. Create a single directory owner account.",
+    "zh": "这只会出现一次。创建单个目录所有者帐户。",
+    "pt": "Isso aparecerá apenas uma vez. Crie uma única conta de proprietário de diretório.",
+    "sr": "Ово ће се појавити само једном. Направите налог власника једног директоријума.",
+    "es": "Esto sólo aparecerá una vez. Cree una cuenta de propietario de directorio único.",
+    "ar": "وهذا سوف يظهر مرة واحدة فقط. إنشاء حساب مالك دليل واحد.",
+    "de": "Dies wird nur einmal angezeigt. Erstellen Sie ein einzelnes Verzeichnisbesitzerkonto."
+  },
+  "Этот раздел находится в работе.": {
+    "en": "This section is a work in progress.",
+    "zh": "本部分正在进行中。",
+    "pt": "Esta seção é um trabalho em andamento.",
+    "sr": "Овај одељак је у току.",
+    "es": "Esta sección es un trabajo en progreso.",
+    "ar": "هذا القسم هو العمل في التقدم.",
+    "de": "Dieser Abschnitt ist in Arbeit."
+  },
+  "LUNE — главная": {
+    "en": "LUNE - main",
+    "zh": "月月-主要",
+    "pt": "LUA - principal",
+    "sr": "ЛУНЕ - главни",
+    "es": "LUNA - principal",
+    "ar": "لون - رئيسي",
+    "de": "LUNE - Haupt"
+  },
+  "LUNE — Тихие формы": {
+    "en": "LUNE - Silent forms",
+    "zh": "LUNE - 无声形式",
+    "pt": "LUNE - Formas silenciosas",
+    "sr": "ЛУНЕ - Нечујне форме",
+    "es": "LUNE - Formas silenciosas",
+    "ar": "لون - أشكال صامتة",
+    "de": "LUNE – Stille Formen"
+  },
+  "LUNE — Тихие формы для современной жизни": {
+    "en": "LUNE – Quiet forms for modern living",
+    "zh": "LUNE——适合现代生活的安静形式",
+    "pt": "LUNE – Formas tranquilas para a vida moderna",
+    "sr": "ЛУНЕ – Мирне форме за модеран живот",
+    "es": "LUNE – Formas tranquilas para la vida moderna",
+    "ar": "LUNE – أشكال هادئة للحياة العصرية",
+    "de": "LUNE – Ruhige Formen für modernes Wohnen"
+  },
+  "LUNE в мире": {
+    "en": "LUNE in the world",
+    "zh": "月在世界",
+    "pt": "LUNA no mundo",
+    "sr": "ЛУНЕ у свету",
+    "es": "LUNA en el mundo",
+    "ar": "لون في العالم",
+    "de": "LUNE in der Welt"
+  },
+  "LUNE появился в Москве с простой идеей: одежда может быть выразительной, не становясь громкой.": {
+    "en": "LUNE appeared in Moscow with a simple idea: clothes can be expressive without becoming loud.",
+    "zh": "LUNE 带着一个简单的想法出现在莫斯科：衣服可以富有表现力，但又不会显得花哨。",
+    "pt": "LUNE apareceu em Moscou com uma ideia simples: as roupas podem ser expressivas sem se tornarem barulhentas.",
+    "sr": "ЛУНЕ се појавио у Москви са једноставном идејом: одећа може бити изражајна, а да не буде гласна.",
+    "es": "LUNE apareció en Moscú con una idea sencilla: la ropa puede ser expresiva sin resultar ruidosa.",
+    "ar": "ظهرت LUNE في موسكو بفكرة بسيطة: يمكن للملابس أن تكون معبرة دون أن تصبح عالية الصوت.",
+    "de": "LUNE erschien in Moskau mit einer einfachen Idee: Kleidung kann ausdrucksstark sein, ohne aufdringlich zu wirken."
+  }
+}

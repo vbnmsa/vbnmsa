@@ -43,3 +43,8 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/_backups/
+/work/
+/outputs/
+/local-dev*.log
+/translation-update*.log
