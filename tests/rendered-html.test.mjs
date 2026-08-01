@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { access, readFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
 
 const root = new URL("../", import.meta.url);
@@ -23,31 +23,14 @@ test("keeps the production LUNE shell and content intact", async () => {
   assert.doesNotMatch(layout + page, /codex-preview|_sites-preview|Your site is taking shape/);
 });
 
-test("keeps CMS persistence, storage, auth, and migrations wired", async () => {
-  const [hosting, schema, cms, adminPage] = await Promise.all([
+test("ships the static storefront without persistence bindings", async () => {
+  const [hosting, catalog] = await Promise.all([
     readFile(fromRoot(".openai/hosting.json"), "utf8"),
-    readFile(fromRoot("db/schema.ts"), "utf8"),
-    readFile(fromRoot("lib/cms-server.ts"), "utf8"),
-    readFile(fromRoot("app/admin/page.tsx"), "utf8"),
+    readFile(fromRoot("app/catalog.ts"), "utf8"),
   ]);
 
   assert.deepEqual(JSON.parse(hosting), {
     project_id: "appgprj_6a676eaf32cc8191aa611d4bfb31aa26",
-    d1: "DB",
-    r2: "PRODUCT_IMAGES",
   });
-  assert.match(schema, /cmsProducts/);
-  assert.match(schema, /cmsProductImages/);
-  assert.match(schema, /adminUsers/);
-  assert.match(cms, /PBKDF2/);
-  assert.match(cms, /lune_admin_session/);
-  assert.match(adminPage, /Catalog management system/);
-
-  await Promise.all([
-    access(fromRoot("drizzle/0000_ambitious_hiroim.sql")),
-    access(fromRoot("app/api/admin/products/route.ts")),
-    access(fromRoot("app/api/admin/products/[id]/route.ts")),
-    access(fromRoot("app/api/admin/uploads/route.ts")),
-    access(fromRoot("app/api/product-images/[key]/route.ts")),
-  ]);
+  assert.match(catalog, /products/);
 });

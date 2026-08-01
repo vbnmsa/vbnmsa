@@ -35,15 +35,6 @@
     "ar": "← العودة",
     "de": "← Zurück"
   },
-  "← Вернуться в магазин": {
-    "en": "← Return to store",
-    "zh": "← 返回商店",
-    "pt": "← Voltar para loja",
-    "sr": "← Вратите се у продавницу",
-    "es": "← Volver a la tienda",
-    "ar": "← العودة إلى المتجر",
-    "de": "← Zurück zum Geschäft"
-  },
   "← Назад": {
     "en": "← Back",
     "zh": "← 返回",
@@ -62,15 +53,6 @@
     "ar": "← مواصلة التسوق",
     "de": "← Weiter einkaufen"
   },
-  "+ Добавить товар": {
-    "en": "+ Add product",
-    "zh": "+ 添加产品",
-    "pt": "+ Adicionar produto",
-    "sr": "+ Додајте производ",
-    "es": "+ Agregar producto",
-    "ar": "+ إضافة منتج",
-    "de": "+ Produkt hinzufügen"
-  },
   "5 из 5 звёзд": {
     "en": "5 out of 5 stars",
     "zh": "5 颗星（满分 5 颗星）",
@@ -88,42 +70,6 @@
     "es": "Dirección de entrega",
     "ar": "عنوان التسليم",
     "de": "Lieferadresse"
-  },
-  "Аккаунт владельца": {
-    "en": "Owner account",
-    "zh": "业主账户",
-    "pt": "Conta do proprietário",
-    "sr": "Власнички рачун",
-    "es": "cuenta de propietario",
-    "ar": "حساب المالك",
-    "de": "Besitzerkonto"
-  },
-  "Аккаунт владельца создан.": {
-    "en": "The owner's account has been created.",
-    "zh": "所有者的帐户已创建。",
-    "pt": "A conta do proprietário foi criada.",
-    "sr": "Власнички налог је креиран.",
-    "es": "Se ha creado la cuenta del propietario.",
-    "ar": "تم إنشاء حساب المالك.",
-    "de": "Das Konto des Eigentümers wurde erstellt."
-  },
-  "Активен": {
-    "en": "Active",
-    "zh": "积极的",
-    "pt": "Ativo",
-    "sr": "Активан",
-    "es": "Activo",
-    "ar": "نشيط",
-    "de": "Aktiv"
-  },
-  "Активные": {
-    "en": "Active",
-    "zh": "积极的",
-    "pt": "Ativo",
-    "sr": "Активан",
-    "es": "Activo",
-    "ar": "نشيط",
-    "de": "Aktiv"
   },
   "Артикул": {
     "en": "Article",
@@ -169,15 +115,6 @@
     "es": "Pago seguro · Devolución dentro de 30 días",
     "ar": "الخروج الآمن · العودة في غضون 30 يوما",
     "de": "Sichere Kaufabwicklung · Rückgabe innerhalb von 30 Tagen"
-  },
-  "Безопасность": {
-    "en": "Safety",
-    "zh": "安全",
-    "pt": "Segurança",
-    "sr": "Сигурност",
-    "es": "Seguridad",
-    "ar": "أمان",
-    "de": "Sicherheit"
   },
   "Берлин": {
     "en": "Berlin",
@@ -305,24 +242,6 @@
     "ar": "أدخل المدينة والبلد - سنختار تلقائيًا مستودعًا في موسكو أو كوبنهاغن ونحسب الموعد النهائي.",
     "de": "Geben Sie Stadt und Land ein – wir wählen automatisch ein Lager in Moskau oder Kopenhagen aus und berechnen die Frist."
   },
-  "Введите данные защищённого аккаунта.": {
-    "en": "Enter your secure account details.",
-    "zh": "输入您的安全帐户详细信息。",
-    "pt": "Insira os detalhes da sua conta segura.",
-    "sr": "Унесите податке о свом безбедном налогу.",
-    "es": "Ingrese los detalles seguros de su cuenta.",
-    "ar": "أدخل تفاصيل حسابك الآمن.",
-    "de": "Geben Sie Ihre sicheren Kontodaten ein."
-  },
-  "Введите корректную почту и пароль не короче 12 символов.": {
-    "en": "Enter the correct email and password of at least 12 characters.",
-    "zh": "输入至少 12 个字符的正确电子邮件和密码。",
-    "pt": "Digite o e-mail e a senha corretos de pelo menos 12 caracteres.",
-    "sr": "Унесите тачну адресу е-поште и лозинку од најмање 12 знакова.",
-    "es": "Ingrese el correo electrónico correcto y la contraseña de al menos 12 caracteres.",
-    "ar": "أدخل البريد الإلكتروني الصحيح وكلمة المرور المكونة من 12 حرفًا على الأقل.",
-    "de": "Geben Sie die korrekte E-Mail-Adresse und das Passwort mit mindestens 12 Zeichen ein."
-  },
   "Вернуться к коллекции": {
     "en": "Return to collection",
     "zh": "返回收藏",
@@ -359,33 +278,6 @@
     "ar": "مساء",
     "de": "Abend"
   },
-  "Видны покупателям": {
-    "en": "Visible to customers",
-    "zh": "客户可见",
-    "pt": "Visível para os clientes",
-    "sr": "Видљиво купцима",
-    "es": "Visible para los clientes",
-    "ar": "مرئية للعملاء",
-    "de": "Sichtbar für Kunden"
-  },
-  "Владелец уже зарегистрирован.": {
-    "en": "The owner is already registered.",
-    "zh": "楼主已经注册了。",
-    "pt": "O proprietário já está cadastrado.",
-    "sr": "Власник је већ регистрован.",
-    "es": "El propietario ya está registrado.",
-    "ar": "تم تسجيل المالك بالفعل.",
-    "de": "Der Eigentümer ist bereits registriert."
-  },
-  "Войти": {
-    "en": "Login",
-    "zh": "登录",
-    "pt": "Conecte-se",
-    "sr": "Логин",
-    "es": "Acceso",
-    "ar": "تسجيل الدخول",
-    "de": "Login"
-  },
   "Волокна, выбранные за тактильность, драпировку и способность красиво стареть.": {
     "en": "Fibers chosen for tactility, drape and ability to age gracefully.",
     "zh": "所选择的纤维具有触感、悬垂性和优雅的老化能力。",
@@ -403,42 +295,6 @@
     "es": "Preguntas",
     "ar": "أسئلة",
     "de": "Fragen"
-  },
-  "Все позиции каталога": {
-    "en": "All catalog items",
-    "zh": "所有目录项",
-    "pt": "Todos os itens do catálogo",
-    "sr": "Сви артикли из каталога",
-    "es": "Todos los artículos del catálogo",
-    "ar": "جميع عناصر الكتالوج",
-    "de": "Alle Katalogartikel"
-  },
-  "Все статусы": {
-    "en": "All statuses",
-    "zh": "所有状态",
-    "pt": "Todos os status",
-    "sr": "Сви статуси",
-    "es": "Todos los estados",
-    "ar": "جميع الحالات",
-    "de": "Alle Status"
-  },
-  "Все товары →": {
-    "en": "All products →",
-    "zh": "所有产品 →",
-    "pt": "Todos os produtos →",
-    "sr": "Сви производи →",
-    "es": "Todos los productos →",
-    "ar": "جميع المنتجات →",
-    "de": "Alle Produkte →"
-  },
-  "Всего товаров": {
-    "en": "Total products",
-    "zh": "产品总数",
-    "pt": "Total de produtos",
-    "sr": "Укупни производи",
-    "es": "Productos totales",
-    "ar": "إجمالي المنتجات",
-    "de": "Gesamtprodukte"
   },
   "Вся одежда": {
     "en": "All clothes",
@@ -458,24 +314,6 @@
     "ar": "جميع الملابس.",
     "de": "Alle Klamotten."
   },
-  "Вход владельца": {
-    "en": "Owner Login",
-    "zh": "业主登录",
-    "pt": "Login do proprietário",
-    "sr": "Овнер Логин",
-    "es": "Inicio de sesión de propietario",
-    "ar": "تسجيل دخول المالك",
-    "de": "Besitzer-Login"
-  },
-  "Вход выполнен.": {
-    "en": "Login is complete.",
-    "zh": "登录完成。",
-    "pt": "O login foi concluído.",
-    "sr": "Пријава је завршена.",
-    "es": "El inicio de sesión está completo.",
-    "ar": "اكتمل تسجيل الدخول.",
-    "de": "Die Anmeldung ist abgeschlossen."
-  },
   "Вы доставляете за границу?": {
     "en": "Do you deliver abroad?",
     "zh": "你们在国外送货吗？",
@@ -484,15 +322,6 @@
     "es": "¿Hacen entregas en el extranjero?",
     "ar": "هل تقومون بالتوصيل للخارج؟",
     "de": "Liefern Sie ins Ausland?"
-  },
-  "Выберите изображение.": {
-    "en": "Select an image.",
-    "zh": "选择一个图像。",
-    "pt": "Selecione uma imagem.",
-    "sr": "Изаберите слику.",
-    "es": "Seleccione una imagen.",
-    "ar": "حدد صورة.",
-    "de": "Wählen Sie ein Bild aus."
   },
   "Выберите размер": {
     "en": "Select size",
@@ -539,24 +368,6 @@
     "ar": "اختر اللغة",
     "de": "Sprache auswählen"
   },
-  "Выйти": {
-    "en": "Log out",
-    "zh": "退出",
-    "pt": "Sair",
-    "sr": "Одјавите се",
-    "es": "Finalizar la sesión",
-    "ar": "تسجيل الخروج",
-    "de": "Abmelden"
-  },
-  "Выйти из CMS": {
-    "en": "Exit CMS",
-    "zh": "退出CMS",
-    "pt": "Sair do CMS",
-    "sr": "Изађите из ЦМС-а",
-    "es": "Salir del CMS",
-    "ar": "الخروج من نظام إدارة المحتوى",
-    "de": "Beenden Sie CMS"
-  },
   "Гардероб, созданный сдержанно и рассчитанный на долгую жизнь.": {
     "en": "A wardrobe designed with discretion and built to last.",
     "zh": "精心设计、经久耐用的衣柜。",
@@ -574,15 +385,6 @@
     "es": "¿Dónde se confecciona la ropa LUNE?",
     "ar": "أين تُصنع ملابس LUNE؟",
     "de": "Wo wird LUNE-Kleidung hergestellt?"
-  },
-  "Главная": {
-    "en": "Home",
-    "zh": "家",
-    "pt": "Lar",
-    "sr": "Хоме",
-    "es": "Hogar",
-    "ar": "بيت",
-    "de": "Heim"
   },
   "Глубокий графит": {
     "en": "Deep graphite",
@@ -683,15 +485,6 @@
     "ar": "من أجلك",
     "de": "Für Ihr"
   },
-  "до 8 МБ": {
-    "en": "up to 8 MB",
-    "zh": "最大 8 MB",
-    "pt": "até 8 MB",
-    "sr": "до 8 МБ",
-    "es": "hasta 8 MB",
-    "ar": "ما يصل إلى 8 ميغابايت",
-    "de": "bis zu 8 MB"
-  },
   "Добавить в корзину": {
     "en": "Add to cart",
     "zh": "添加到购物车",
@@ -701,24 +494,6 @@
     "ar": "أضف إلى السلة",
     "de": "In den Warenkorb legen"
   },
-  "Добавить товар": {
-    "en": "Add product",
-    "zh": "添加产品",
-    "pt": "Adicionar produto",
-    "sr": "Додајте производ",
-    "es": "Añadir producto",
-    "ar": "أضف المنتج",
-    "de": "Produkt hinzufügen"
-  },
-  "Добавить фото": {
-    "en": "Add a photo",
-    "zh": "添加照片",
-    "pt": "Adicione uma foto",
-    "sr": "Додајте фотографију",
-    "es": "Añadir una foto",
-    "ar": "أضف صورة",
-    "de": "Fügen Sie ein Foto hinzu"
-  },
   "Добавьте вещи из коллекции, и они появятся в вашей корзине.": {
     "en": "Add items from the collection and they will appear in your cart.",
     "zh": "添加收藏中的商品，它们将出现在您的购物车中。",
@@ -727,33 +502,6 @@
     "es": "Añade artículos de la colección y aparecerán en tu carrito.",
     "ar": "أضف عناصر من المجموعة وسوف تظهر في سلة التسوق الخاصة بك.",
     "de": "Fügen Sie Artikel aus der Sammlung hinzu und sie werden in Ihrem Warenkorb angezeigt."
-  },
-  "Добавьте подробное описание.": {
-    "en": "Add a detailed description.",
-    "zh": "添加详细描述。",
-    "pt": "Adicione uma descrição detalhada.",
-    "sr": "Додајте детаљан опис.",
-    "es": "Añade una descripción detallada.",
-    "ar": "أضف وصفًا تفصيليًا.",
-    "de": "Fügen Sie eine detaillierte Beschreibung hinzu."
-  },
-  "Добавьте хотя бы одну фотографию.": {
-    "en": "Add at least one photo.",
-    "zh": "添加至少一张照片。",
-    "pt": "Adicione pelo menos uma foto.",
-    "sr": "Додајте најмање једну фотографију.",
-    "es": "Añade al menos una foto.",
-    "ar": "أضف صورة واحدة على الأقل.",
-    "de": "Fügen Sie mindestens ein Foto hinzu."
-  },
-  "Добрый день": {
-    "en": "Good afternoon",
-    "zh": "下午好",
-    "pt": "Boa tarde",
-    "sr": "Добар дан",
-    "es": "Buenas tardes",
-    "ar": "مساء الخير",
-    "de": "Guten Tag"
   },
   "Долгое присутствие.": {
     "en": "Long presence.",
@@ -826,24 +574,6 @@
     "es": "Terminación",
     "ar": "انتهاء",
     "de": "Fertigstellung"
-  },
-  "Загрузка CMS…": {
-    "en": "Loading CMS...",
-    "zh": "正在加载内容管理系统...",
-    "pt": "Carregando CMS...",
-    "sr": "Учитавање ЦМС-а...",
-    "es": "Cargando CMS...",
-    "ar": "جارٍ تحميل نظام إدارة المحتوى...",
-    "de": "CMS wird geladen..."
-  },
-  "Загрузка…": {
-    "en": "Loading…",
-    "zh": "加载中…",
-    "pt": "Carregando…",
-    "sr": "Учитавање…",
-    "es": "Cargando…",
-    "ar": "تحميل…",
-    "de": "Laden…"
   },
   "Закрыть": {
     "en": "Close",
@@ -952,24 +682,6 @@
     "es": "Favoritos (",
     "ar": "المفضلة (",
     "de": "Favoriten ("
-  },
-  "Изменён": {
-    "en": "Changed",
-    "zh": "改变了",
-    "pt": "Mudado",
-    "sr": "Промењено",
-    "es": "Cambió",
-    "ar": "تغيرت",
-    "de": "Geändert"
-  },
-  "Изменить": {
-    "en": "Change",
-    "zh": "改变",
-    "pt": "Mudar",
-    "sr": "Промена",
-    "es": "Cambiar",
-    "ar": "يتغير",
-    "de": "Ändern"
   },
   "Инвесторы": {
     "en": "Investors",
@@ -1403,15 +1115,6 @@
     "ar": "انقر على قلب المنتج الذي تفضله.",
     "de": "Klicken Sie auf das Herzstück des Produkts, das Ihnen gefällt."
   },
-  "Название *": {
-    "en": "Name *",
-    "zh": "姓名 *",
-    "pt": "Nome *",
-    "sr": "Име *",
-    "es": "Nombre *",
-    "ar": "اسم *",
-    "de": "Name *"
-  },
   "Наличие в магазинах": {
     "en": "Availability in stores",
     "zh": "商店有货情况",
@@ -1420,24 +1123,6 @@
     "es": "Disponibilidad en tiendas",
     "ar": "التوفر في المتاجر",
     "de": "Verfügbarkeit im Handel"
-  },
-  "Например, жакет Structure": {
-    "en": "For example, Structure jacket",
-    "zh": "例如，结构夹克",
-    "pt": "Por exemplo, jaqueta Estrutura",
-    "sr": "На пример, Струцтуре јакна",
-    "es": "Por ejemplo, chaqueta de estructura.",
-    "ar": "على سبيل المثال، سترة الهيكل",
-    "de": "Zum Beispiel Strukturjacke"
-  },
-  "Настройки": {
-    "en": "Settings",
-    "zh": "设置",
-    "pt": "Configurações",
-    "sr": "Подешавања",
-    "es": "Ajustes",
-    "ar": "إعدادات",
-    "de": "Einstellungen"
   },
   "Натуральные материалы": {
     "en": "Natural materials",
@@ -1466,15 +1151,6 @@
     "ar": "فلسفتنا",
     "de": "Unsere Philosophie"
   },
-  "Не менее 12 символов": {
-    "en": "At least 12 characters",
-    "zh": "至少 12 个字符",
-    "pt": "Pelo menos 12 caracteres",
-    "sr": "Најмање 12 знакова",
-    "es": "Al menos 12 caracteres",
-    "ar": "ما لا يقل عن 12 حرفا",
-    "de": "Mindestens 12 Zeichen"
-  },
   "Не нашли ответ? Перейдите на страницу поддержки.": {
     "en": "Didn't find the answer? Go to the support page.",
     "zh": "没有找到答案？转到支持页面。",
@@ -1483,78 +1159,6 @@
     "es": "¿No encontraste la respuesta? Vaya a la página de soporte.",
     "ar": "لم تجد الجواب؟ انتقل إلى صفحة الدعم.",
     "de": "Haben Sie die Antwort nicht gefunden? Gehen Sie zur Support-Seite."
-  },
-  "Не удалось загрузить изображение.": {
-    "en": "Failed to load image.",
-    "zh": "加载图像失败。",
-    "pt": "Falha ao carregar a imagem.",
-    "sr": "Учитавање слике није успело.",
-    "es": "No se pudo cargar la imagen.",
-    "ar": "فشل تحميل الصورة.",
-    "de": "Bild konnte nicht geladen werden."
-  },
-  "Не удалось загрузить товары.": {
-    "en": "Failed to load products.",
-    "zh": "无法加载产品。",
-    "pt": "Falha ao carregar produtos.",
-    "sr": "Учитавање производа није успело.",
-    "es": "No se pudieron cargar los productos.",
-    "ar": "فشل في تحميل المنتجات.",
-    "de": "Die Produkte konnten nicht geladen werden."
-  },
-  "Не удалось загрузить фотографию.": {
-    "en": "Failed to upload photo.",
-    "zh": "上传照片失败。",
-    "pt": "Falha ao carregar a foto.",
-    "sr": "Отпремање фотографије није успело.",
-    "es": "No se pudo cargar la foto.",
-    "ar": "فشل تحميل الصورة.",
-    "de": "Foto konnte nicht hochgeladen werden."
-  },
-  "Не удалось изменить товар.": {
-    "en": "Failed to change product.",
-    "zh": "更改产品失败。",
-    "pt": "Falha ao alterar o produto.",
-    "sr": "Промена производа није успела.",
-    "es": "No se pudo cambiar el producto.",
-    "ar": "فشل في تغيير المنتج.",
-    "de": "Produktwechsel fehlgeschlagen."
-  },
-  "Не удалось подключиться к базе данных.": {
-    "en": "Failed to connect to the database.",
-    "zh": "无法连接到数据库。",
-    "pt": "Falha ao conectar-se ao banco de dados.",
-    "sr": "Повезивање са базом података није успело.",
-    "es": "No se pudo conectar a la base de datos.",
-    "ar": "فشل الاتصال بقاعدة البيانات.",
-    "de": "Verbindung zur Datenbank konnte nicht hergestellt werden."
-  },
-  "Не удалось сохранить товар.": {
-    "en": "Failed to save item.",
-    "zh": "保存项目失败。",
-    "pt": "Falha ao salvar o item.",
-    "sr": "Чување ставке није успело.",
-    "es": "No se pudo guardar el elemento.",
-    "ar": "فشل حفظ العنصر.",
-    "de": "Das Element konnte nicht gespeichert werden."
-  },
-  "Не удалось удалить товар.": {
-    "en": "Failed to delete product.",
-    "zh": "删除产品失败。",
-    "pt": "Falha ao excluir o produto.",
-    "sr": "Брисање производа није успело.",
-    "es": "No se pudo eliminar el producto.",
-    "ar": "فشل في حذف المنتج.",
-    "de": "Das Produkt konnte nicht gelöscht werden."
-  },
-  "не указан": {
-    "en": "not specified",
-    "zh": "未指定",
-    "pt": "não especificado",
-    "sr": "није наведено",
-    "es": "No especificado",
-    "ar": "غير محدد",
-    "de": "nicht angegeben"
   },
   "Небольшие партии и долговечная конструкция вместо одноразовых трендов.": {
     "en": "Small batches and long-lasting designs instead of one-off trends.",
@@ -1565,24 +1169,6 @@
     "ar": "دفعات صغيرة وتصميمات طويلة الأمد بدلاً من الاتجاهات لمرة واحدة.",
     "de": "Kleine Stückzahlen und langlebige Designs statt einmalige Trends."
   },
-  "Неверная почта или пароль.": {
-    "en": "Invalid email or password.",
-    "zh": "电子邮件或密码无效。",
-    "pt": "E-mail ou senha inválidos.",
-    "sr": "Неважећа адреса е-поште или лозинка.",
-    "es": "Correo electrónico o contraseña no válidos.",
-    "ar": "البريد الإلكتروني أو كلمة المرور غير صالحة.",
-    "de": "Ungültige E-Mail-Adresse oder ungültiges Passwort."
-  },
-  "Недавно изменённые": {
-    "en": "Recently modified",
-    "zh": "最近修改过",
-    "pt": "Modificado recentemente",
-    "sr": "Недавно измењено",
-    "es": "Modificado recientemente",
-    "ar": "تم تعديله مؤخرًا",
-    "de": "Kürzlich geändert"
-  },
   "Неношеные изделия в первоначальном состоянии можно вернуть в течение 30 дней. Обмен производится бесплатно.": {
     "en": "Unworn items in original condition may be returned within 30 days. The exchange is free of charge.",
     "zh": "未磨损且保持原始状态的商品可在 30 天内退货。兑换是免费的。",
@@ -1591,33 +1177,6 @@
     "es": "Los artículos no usados ​​en su estado original pueden devolverse dentro de los 30 días. El cambio es gratuito.",
     "ar": "يمكن إرجاع العناصر غير المستخدمة في حالتها الأصلية خلال 30 يومًا. التبادل مجاني.",
     "de": "Ungetragene Artikel im Originalzustand können innerhalb von 30 Tagen zurückgegeben werden. Der Umtausch ist kostenlos."
-  },
-  "Нет в наличии": {
-    "en": "Not available",
-    "zh": "无法使用",
-    "pt": "Não disponível",
-    "sr": "Није доступно",
-    "es": "No disponible",
-    "ar": "غير متوفر",
-    "de": "Nicht verfügbar"
-  },
-  "Новая заявка LUNE · Курьер": {
-    "en": "New application LUNE · Courier",
-    "zh": "新应用LUNE·快递",
-    "pt": "Novo aplicativo LUNE · Courier",
-    "sr": "Нова апликација ЛУНЕ · Курир",
-    "es": "Nueva aplicación LUNE · Mensajería",
-    "ar": "تطبيق جديد LUNE · الساعي",
-    "de": "Neue Anwendung LUNE · Courier"
-  },
-  "Новая позиция": {
-    "en": "New position",
-    "zh": "新职位",
-    "pt": "Nova posição",
-    "sr": "Нова позиција",
-    "es": "Nueva posición",
-    "ar": "موقف جديد",
-    "de": "Neue Position"
   },
   "Новинки": {
     "en": "New items",
@@ -1645,15 +1204,6 @@
     "es": "Sobre la marca",
     "ar": "حول العلامة التجارية",
     "de": "Über die Marke"
-  },
-  "Обзор каталога": {
-    "en": "Catalog overview",
-    "zh": "目录概览",
-    "pt": "Visão geral do catálogo",
-    "sr": "Преглед каталога",
-    "es": "Resumen del catálogo",
-    "ar": "نظرة عامة على الكتالوج",
-    "de": "Katalogübersicht"
   },
   "Объёмный джемпер из тонкой мериносовой шерсти. Мягкая структура, спущенное плечо и выверенная длина создают спокойный современный силуэт.": {
     "en": "Oversized jumper made of fine merino wool. The soft structure, dropped shoulder and precise length create a calm, modern silhouette.",
@@ -1727,15 +1277,6 @@
     "ar": "التعليقات",
     "de": "Rezensionen"
   },
-  "Открыть магазин ↗": {
-    "en": "Open a store ↗",
-    "zh": "开店↗",
-    "pt": "Abra uma loja ↗",
-    "sr": "Отворите продавницу ↗",
-    "es": "Abrir una tienda ↗",
-    "ar": "افتح متجر ↗",
-    "de": "Eröffnen Sie ein Geschäft ↗"
-  },
   "Открыть меню": {
     "en": "Open menu",
     "zh": "打开菜单",
@@ -1754,15 +1295,6 @@
     "ar": "افتح صفحة الدعم",
     "de": "Support-Seite öffnen"
   },
-  "Отмена": {
-    "en": "Cancel",
-    "zh": "取消",
-    "pt": "Cancelar",
-    "sr": "Откажи",
-    "es": "Cancelar",
-    "ar": "يلغي",
-    "de": "Stornieren"
-  },
   "Отправление": {
     "en": "Departure",
     "zh": "离开",
@@ -1771,15 +1303,6 @@
     "es": "Partida",
     "ar": "رحيل",
     "de": "Abfahrt"
-  },
-  "Отправляем заявку…": {
-    "en": "We are sending an application...",
-    "zh": "我们正在发送申请...",
-    "pt": "Estamos enviando uma inscrição...",
-    "sr": "Шаљемо пријаву...",
-    "es": "Estamos enviando una solicitud...",
-    "ar": "نقوم بإرسال طلب...",
-    "de": "Wir senden eine Bewerbung..."
   },
   "Оформить заказ": {
     "en": "Place an order",
@@ -1835,15 +1358,6 @@
     "ar": "باريس، فرنسا",
     "de": "Paris, Frankreich"
   },
-  "Пароль": {
-    "en": "Password",
-    "zh": "密码",
-    "pt": "Senha",
-    "sr": "Лозинка",
-    "es": "Contraseña",
-    "ar": "كلمة المرور",
-    "de": "Passwort"
-  },
   "платье": {
     "en": "dress",
     "zh": "裙子",
@@ -1871,15 +1385,6 @@
     "ar": "لم يتم العثور على نتائج لطلبك.",
     "de": "Für Ihre Anfrage wurden keine Ergebnisse gefunden."
   },
-  "По названию": {
-    "en": "By name",
-    "zh": "按名字",
-    "pt": "Por nome",
-    "sr": "По имену",
-    "es": "Por nombre",
-    "ar": "بالاسم",
-    "de": "Mit Namen"
-  },
   "Под заказ": {
     "en": "To order",
     "zh": "订购",
@@ -1888,24 +1393,6 @@
     "es": "Para ordenar",
     "ar": "للطلب",
     "de": "Auf Bestellung"
-  },
-  "Поддерживаются JPG, PNG, WEBP и AVIF.": {
-    "en": "JPG, PNG, WEBP and AVIF are supported.",
-    "zh": "支持 JPG、PNG、WEBP 和 AVIF。",
-    "pt": "JPG, PNG, WEBP e AVIF são suportados.",
-    "sr": "Подржани су ЈПГ, ПНГ, ВЕБП и АВИФ.",
-    "es": "Se admiten JPG, PNG, WEBP y AVIF.",
-    "ar": "يتم دعم JPG، PNG، WEBP وAVIF.",
-    "de": "JPG, PNG, WEBP und AVIF werden unterstützt."
-  },
-  "Подождите…": {
-    "en": "Wait…",
-    "zh": "等待…",
-    "pt": "Espere…",
-    "sr": "чекај…",
-    "es": "Esperar…",
-    "ar": "انتظر…",
-    "de": "Warten…"
   },
   "Подписаться": {
     "en": "Subscribe",
@@ -1925,15 +1412,6 @@
     "ar": "مزيد من التفاصيل",
     "de": "Weitere Details"
   },
-  "Подробное описание *": {
-    "en": "Detailed description *",
-    "zh": "详细说明*",
-    "pt": "Descrição detalhada *",
-    "sr": "Детаљан опис *",
-    "es": "Descripción detallada *",
-    "ar": "وصف تفصيلي *",
-    "de": "Detaillierte Beschreibung *"
-  },
   "Поиск": {
     "en": "Search",
     "zh": "搜索",
@@ -1952,15 +1430,6 @@
     "ar": "البحث عن طريق المجموعة",
     "de": "Suche nach Sammlung"
   },
-  "Поиск по названию…": {
-    "en": "Search by name...",
-    "zh": "按名称搜索...",
-    "pt": "Pesquise por nome...",
-    "sr": "Тражи по имену...",
-    "es": "Buscar por nombre...",
-    "ar": "البحث بالاسم...",
-    "de": "Nach Namen suchen..."
-  },
   "Помощь": {
     "en": "Help",
     "zh": "帮助",
@@ -1978,15 +1447,6 @@
     "es": "Asistencia al cliente",
     "ar": "مساعدة العملاء",
     "de": "Kundenunterstützung"
-  },
-  "Попробуйте ещё раз.": {
-    "en": "Try again.",
-    "zh": "再试一次。",
-    "pt": "Tente novamente.",
-    "sr": "Покушајте поново.",
-    "es": "Intentar otra vez.",
-    "ar": "حاول ثانية.",
-    "de": "Versuchen Sie es erneut."
   },
   "Похожие товары": {
     "en": "Similar products",
@@ -2051,15 +1511,6 @@
     "ar": "تصميم مدروس",
     "de": "Durchdachtes Design"
   },
-  "Произошла ошибка.": {
-    "en": "An error has occurred.",
-    "zh": "发生错误。",
-    "pt": "Ocorreu um erro.",
-    "sr": "Дошло је до грешке.",
-    "es": "Ha ocurrido un error.",
-    "ar": "لقد حدث خطأ.",
-    "de": "Es ist ein Fehler aufgetreten."
-  },
   "Работа мастера": {
     "en": "Master's work",
     "zh": "大师的作品",
@@ -2068,24 +1519,6 @@
     "es": "trabajo de maestro",
     "ar": "عمل الماجستير",
     "de": "Meisterwerk"
-  },
-  "Разделы CMS": {
-    "en": "CMS sections",
-    "zh": "内容管理系统部分",
-    "pt": "Seções CMS",
-    "sr": "ЦМС секције",
-    "es": "Secciones CMS",
-    "ar": "أقسام نظام إدارة المحتوى",
-    "de": "CMS-Abschnitte"
-  },
-  "Разделяйте размеры запятыми": {
-    "en": "Separate sizes with commas",
-    "zh": "用逗号分隔尺寸",
-    "pt": "Separe os tamanhos com vírgulas",
-    "sr": "Одвојите величине зарезима",
-    "es": "Separar tamaños con comas",
-    "ar": "أحجام منفصلة بفواصل",
-    "de": "Trennen Sie Größen durch Kommas"
   },
   "Размер": {
     "en": "Size",
@@ -2105,24 +1538,6 @@
     "ar": "الحجم والملاءمة",
     "de": "Größe und Passform"
   },
-  "Размеры": {
-    "en": "Dimensions",
-    "zh": "方面",
-    "pt": "Dimensões",
-    "sr": "Димензије",
-    "es": "Dimensiones",
-    "ar": "أبعاد",
-    "de": "Abmessungen"
-  },
-  "Редактирование": {
-    "en": "Editing",
-    "zh": "编辑",
-    "pt": "Edição",
-    "sr": "Уређивање",
-    "es": "Edición",
-    "ar": "التحرير",
-    "de": "Bearbeitung"
-  },
   "Редкое сочетание комфорта и архитектурного силуэта. Качество обработки заметно в каждой детали.": {
     "en": "A rare combination of comfort and architectural silhouette. The quality of processing is noticeable in every detail.",
     "zh": "舒适性与建筑轮廓的罕见结合。加工质量在每个细节上都引人注目。",
@@ -2131,15 +1546,6 @@
     "es": "Una rara combinación de comodidad y silueta arquitectónica. La calidad del procesamiento se nota en cada detalle.",
     "ar": "مزيج نادر من الراحة والصورة الظلية المعمارية. جودة المعالجة ملحوظة في كل التفاصيل.",
     "de": "Eine seltene Kombination aus Komfort und architektonischer Silhouette. Die Qualität der Verarbeitung ist in jedem Detail spürbar."
-  },
-  "Российские размеры *": {
-    "en": "Russian sizes *",
-    "zh": "俄罗斯尺寸 *",
-    "pt": "Tamanhos russos *",
-    "sr": "Руске величине *",
-    "es": "Tallas rusas *",
-    "ar": "المقاسات الروسية *",
-    "de": "Russische Größen *"
   },
   "Русский": {
     "en": "Russian",
@@ -2176,15 +1582,6 @@
     "es": "Contacto",
     "ar": "اتصال",
     "de": "Kontakt"
-  },
-  "Сессия защищена и автоматически завершится через 7 дней.": {
-    "en": "The session is protected and will automatically end after 7 days.",
-    "zh": "该会话受到保护，并将在 7 天后自动结束。",
-    "pt": "A sessão está protegida e terminará automaticamente após 7 dias.",
-    "sr": "Сесија је заштићена и аутоматски ће се завршити након 7 дана.",
-    "es": "La sesión está protegida y finalizará automáticamente después de 7 días.",
-    "ar": "الجلسة محمية وستنتهي تلقائيًا بعد 7 أيام.",
-    "de": "Die Sitzung ist geschützt und endet automatisch nach 7 Tagen."
   },
   "Сеул, Южная Корея": {
     "en": "Seoul, South Korea",
@@ -2231,15 +1628,6 @@
     "ar": "عرض المجموعة",
     "de": "Sammlung ansehen"
   },
-  "Сначала изменённые": {
-    "en": "Changed first",
-    "zh": "先改了",
-    "pt": "Alterado primeiro",
-    "sr": "Прво променио",
-    "es": "cambiado primero",
-    "ar": "تغيرت أولا",
-    "de": "Zuerst geändert"
-  },
   "Создание": {
     "en": "Creation",
     "zh": "创建",
@@ -2248,15 +1636,6 @@
     "es": "Creación",
     "ar": "الخلق",
     "de": "Schaffung"
-  },
-  "Создание владельца": {
-    "en": "Creating an Owner",
-    "zh": "创建所有者",
-    "pt": "Criando um proprietário",
-    "sr": "Креирање власника",
-    "es": "Creando un propietario",
-    "ar": "إنشاء مالك",
-    "de": "Einen Eigentümer erstellen"
   },
   "Создано в Москве": {
     "en": "Created in Moscow",
@@ -2275,24 +1654,6 @@
     "es": "Construido para durar",
     "ar": "بنيت لتدوم",
     "de": "Gebaut für die Ewigkeit"
-  },
-  "Создать аккаунт": {
-    "en": "Create an account",
-    "zh": "创建一个帐户",
-    "pt": "Crie uma conta",
-    "sr": "Креирајте налог",
-    "es": "Crear una cuenta",
-    "ar": "إنشاء حساب",
-    "de": "Ein Konto erstellen"
-  },
-  "Сортировка": {
-    "en": "Sorting",
-    "zh": "排序",
-    "pt": "Classificando",
-    "sr": "Сортирање",
-    "es": "Clasificación",
-    "ar": "فرز",
-    "de": "Sortierung"
   },
   "Состав и уход": {
     "en": "Composition and care",
@@ -2339,15 +1700,6 @@
     "ar": "التركيب: 96% صوف إيطالي، 4% إيلاستين؛ بطانة الجيب - 100% قطن. يوصى بالتنظيف الجاف الدقيق. اسمح للملابس بالراحة لمدة يوم على الأقل بين مرات ارتدائها وقم بتخزين بنطالك على علاقة بها مشابك. لا تغسل في الغسالة، ولا تستخدم المبيضات أو التجفيف بالمجفف. قم بتسوية التجاعيد المحلية بالبخار دون ملامسة المكواة للقماش بشكل مباشر.",
     "de": "Zusammensetzung: 96 % italienische Wolle, 4 % Elasthan; Taschenfutter – 100 % Baumwolle. Eine schonende chemische Reinigung wird empfohlen. Lassen Sie das Kleidungsstück zwischen dem Tragen mindestens einen Tag ruhen und bewahren Sie Ihre Hose auf einem Kleiderbügel mit Clips auf. Nicht in der Maschine waschen, nicht bleichen oder im Trockner trocknen. Glätten Sie lokale Falten mit Dampf, ohne dass das Bügeleisen den Stoff direkt berührt."
   },
-  "Сохранение…": {
-    "en": "Saving…",
-    "zh": "保存…",
-    "pt": "Salvando…",
-    "sr": "Чување…",
-    "es": "Ahorro…",
-    "ar": "توفير…",
-    "de": "Sparen…"
-  },
   "Сохранённые вещи": {
     "en": "Saved items",
     "zh": "已保存的项目",
@@ -2356,15 +1708,6 @@
     "es": "Artículos guardados",
     "ar": "العناصر المحفوظة",
     "de": "Gespeicherte Artikel"
-  },
-  "Сохранить товар": {
-    "en": "Save product",
-    "zh": "保存产品",
-    "pt": "Salvar produto",
-    "sr": "Сачувајте производ",
-    "es": "Guardar producto",
-    "ar": "حفظ المنتج",
-    "de": "Produkt speichern"
   },
   "Спасибо за заказ": {
     "en": "Thanks for your order",
@@ -2392,24 +1735,6 @@
     "es": "La lista todavía está vacía.",
     "ar": "القائمة لا تزال فارغة",
     "de": "Die Liste ist noch leer"
-  },
-  "Статус": {
-    "en": "Status",
-    "zh": "地位",
-    "pt": "Status",
-    "sr": "Статус",
-    "es": "Estado",
-    "ar": "حالة",
-    "de": "Status"
-  },
-  "Статус *": {
-    "en": "Status *",
-    "zh": "地位 *",
-    "pt": "Status *",
-    "sr": "Статус *",
-    "es": "Estado *",
-    "ar": "حالة *",
-    "de": "Status *"
   },
   "Струящееся платье": {
     "en": "Flowy dress",
@@ -2510,15 +1835,6 @@
     "ar": "الثقة الهادئة.",
     "de": "ruhiges Vertrauen."
   },
-  "Товар": {
-    "en": "Product",
-    "zh": "产品",
-    "pt": "Produto",
-    "sr": "Производ",
-    "es": "Producto",
-    "ar": "منتج",
-    "de": "Produkt"
-  },
   "Товар не найден": {
     "en": "Product not found",
     "zh": "未找到产品",
@@ -2527,42 +1843,6 @@
     "es": "Producto no encontrado",
     "ar": "لم يتم العثور على المنتج",
     "de": "Produkt nicht gefunden"
-  },
-  "Товар не найден.": {
-    "en": "Product not found.",
-    "zh": "未找到产品。",
-    "pt": "Produto não encontrado.",
-    "sr": "Производ није пронађен.",
-    "es": "Producto no encontrado.",
-    "ar": "لم يتم العثور على المنتج.",
-    "de": "Produkt nicht gefunden."
-  },
-  "Товар удалён.": {
-    "en": "Product removed.",
-    "zh": "产品已移除。",
-    "pt": "Produto removido.",
-    "sr": "Производ је уклоњен.",
-    "es": "Producto eliminado.",
-    "ar": "تمت إزالة المنتج.",
-    "de": "Produkt entfernt."
-  },
-  "Товар успешно добавлен.": {
-    "en": "Product added successfully.",
-    "zh": "产品添加成功。",
-    "pt": "Produto adicionado com sucesso.",
-    "sr": "Производ је успешно додат.",
-    "es": "Producto agregado exitosamente.",
-    "ar": "تمت إضافة المنتج بنجاح.",
-    "de": "Produkt erfolgreich hinzugefügt."
-  },
-  "Товар успешно изменён.": {
-    "en": "The product has been successfully changed.",
-    "zh": "产品已成功变更。",
-    "pt": "O produto foi alterado com sucesso.",
-    "sr": "Производ је успешно промењен.",
-    "es": "El producto ha sido cambiado exitosamente.",
-    "ar": "تم تغيير المنتج بنجاح.",
-    "de": "Das Produkt wurde erfolgreich geändert."
   },
   "товара": {
     "en": "goods",
@@ -2582,24 +1862,6 @@
     "ar": "بضائع",
     "de": "Waren"
   },
-  "Товары не найдены.": {
-    "en": "No products found.",
-    "zh": "没有找到产品。",
-    "pt": "Nenhum produto encontrado.",
-    "sr": "Нема пронађених производа.",
-    "es": "No se encontraron productos.",
-    "ar": "لم يتم العثور على منتجات.",
-    "de": "Keine Produkte gefunden."
-  },
-  "Товары:": {
-    "en": "Goods:",
-    "zh": "商品：",
-    "pt": "Bens:",
-    "sr": "роба:",
-    "es": "Bienes:",
-    "ar": "بضائع:",
-    "de": "Waren:"
-  },
   "Токио, Япония": {
     "en": "Tokyo, Japan",
     "zh": "日本东京",
@@ -2617,15 +1879,6 @@
     "es": "Proporciones precisas y detalles expresivos. Nada extra.",
     "ar": "أبعاد دقيقة وتفاصيل معبرة. لا شيء إضافي.",
     "de": "Präzise Proportionen und ausdrucksstarke Details. Nichts Besonderes."
-  },
-  "Требуют внимания": {
-    "en": "Need attention",
-    "zh": "需要注意",
-    "pt": "Precisa de atenção",
-    "sr": "Потребна је пажња",
-    "es": "Necesito atención",
-    "ar": "بحاجة الى الاهتمام",
-    "de": "Brauche Aufmerksamkeit"
   },
   "трикотаж": {
     "en": "knitwear",
@@ -2681,42 +1934,6 @@
     "ar": "يمسح",
     "de": "Löschen"
   },
-  "Удалить фотографию": {
-    "en": "Delete photo",
-    "zh": "删除照片",
-    "pt": "Excluir foto",
-    "sr": "Избриши фотографију",
-    "es": "eliminar foto",
-    "ar": "حذف الصورة",
-    "de": "Foto löschen"
-  },
-  "Укажите корректную цену.": {
-    "en": "Please enter the correct price.",
-    "zh": "请输入正确的价格。",
-    "pt": "Por favor insira o preço correto.",
-    "sr": "Унесите тачну цену.",
-    "es": "Por favor ingrese el precio correcto.",
-    "ar": "الرجاء إدخال السعر الصحيح.",
-    "de": "Bitte geben Sie den korrekten Preis ein."
-  },
-  "Укажите название товара.": {
-    "en": "Enter the name of the product.",
-    "zh": "输入产品名称。",
-    "pt": "Digite o nome do produto.",
-    "sr": "Унесите назив производа.",
-    "es": "Introduzca el nombre del producto.",
-    "ar": "أدخل اسم المنتج.",
-    "de": "Geben Sie den Namen des Produkts ein."
-  },
-  "Укажите хотя бы один размер.": {
-    "en": "Please indicate at least one size.",
-    "zh": "请注明至少一种尺寸。",
-    "pt": "Por favor indique pelo menos um tamanho.",
-    "sr": "Наведите бар једну величину.",
-    "es": "Por favor indica al menos una talla.",
-    "ar": "يرجى الإشارة إلى حجم واحد على الأقل.",
-    "de": "Bitte geben Sie mindestens eine Größe an."
-  },
   "ул. xxxxxxxx, д. xx": {
     "en": "st. xxxxxxxx, d. xx",
     "zh": "英石。 xxxxxxxx，d。 xx",
@@ -2735,15 +1952,6 @@
     "ar": "تقليل الكمية",
     "de": "Menge reduzieren"
   },
-  "Управление каталогом": {
-    "en": "Directory management",
-    "zh": "目录管理",
-    "pt": "Gerenciamento de diretório",
-    "sr": "Управљање имеником",
-    "es": "Gestión de directorios",
-    "ar": "إدارة الدليل",
-    "de": "Verzeichnisverwaltung"
-  },
   "Условия": {
     "en": "Terms",
     "zh": "条款",
@@ -2753,24 +1961,6 @@
     "ar": "شروط",
     "de": "Bedingungen"
   },
-  "уточняется": {
-    "en": "TBC",
-    "zh": "待定",
-    "pt": "A confirmar",
-    "sr": "ТБЦ",
-    "es": "por confirmar",
-    "ar": "سيتم تحديده لاحقًا",
-    "de": "TBC"
-  },
-  "Файл должен быть меньше 8 МБ.": {
-    "en": "The file must be less than 8 MB.",
-    "zh": "文件必须小于 8 MB。",
-    "pt": "O arquivo deve ter menos de 8 MB.",
-    "sr": "Датотека мора бити мања од 8 МБ.",
-    "es": "El archivo debe tener menos de 8 MB.",
-    "ar": "يجب أن يكون حجم الملف أقل من 8 ميجابايت.",
-    "de": "Die Datei muss kleiner als 8 MB sein."
-  },
   "Философия LUNE": {
     "en": "LUNE Philosophy",
     "zh": "月月理念",
@@ -2779,15 +1969,6 @@
     "es": "Filosofía LUNE",
     "ar": "فلسفة لون",
     "de": "LUNE-Philosophie"
-  },
-  "Фильтр статуса": {
-    "en": "Status filter",
-    "zh": "状态过滤器",
-    "pt": "Filtro de status",
-    "sr": "Филтер статуса",
-    "es": "Filtro de estado",
-    "ar": "مرشح الحالة",
-    "de": "Statusfilter"
   },
   "ФИО получателя": {
     "en": "Recipient's name",
@@ -2807,24 +1988,6 @@
     "ar": "استمارة",
     "de": "Bilden"
   },
-  "Фотографии *": {
-    "en": "Photos *",
-    "zh": "照片 *",
-    "pt": "Fotos *",
-    "sr": "фотографије *",
-    "es": "Fotos *",
-    "ar": "الصور *",
-    "de": "Fotos *"
-  },
-  "Хранилище изображений недоступно.": {
-    "en": "Image storage is unavailable.",
-    "zh": "图像存储不可用。",
-    "pt": "O armazenamento de imagens não está disponível.",
-    "sr": "Складиштење слика није доступно.",
-    "es": "El almacenamiento de imágenes no está disponible.",
-    "ar": "تخزين الصور غير متوفر.",
-    "de": "Der Bildspeicher ist nicht verfügbar."
-  },
   "Цвет": {
     "en": "Color",
     "zh": "颜色",
@@ -2842,60 +2005,6 @@
     "es": "Color:",
     "ar": "لون:",
     "de": "Farbe:"
-  },
-  "Цена": {
-    "en": "Price",
-    "zh": "价格",
-    "pt": "Preço",
-    "sr": "Цена",
-    "es": "Precio",
-    "ar": "سعر",
-    "de": "Preis"
-  },
-  "Цена, ₽ *": {
-    "en": "Price, ₽ *",
-    "zh": "价格, ₽ *",
-    "pt": "Preço, ₽ *",
-    "sr": "Цена, ₽ *",
-    "es": "Precio, ₽ *",
-    "ar": "السعر ₽ *",
-    "de": "Preis, ₽ *"
-  },
-  "Цена: по возрастанию": {
-    "en": "Price: ascending",
-    "zh": "价格：上涨",
-    "pt": "Preço: ascendente",
-    "sr": "Цена: растућа",
-    "es": "Precio: ascendente",
-    "ar": "السعر: تصاعدي",
-    "de": "Preis: aufsteigend"
-  },
-  "Цена: по убыванию": {
-    "en": "Price: descending",
-    "zh": "价格：降价",
-    "pt": "Preço: descendente",
-    "sr": "Цена: опадајућа",
-    "es": "Precio: descendente",
-    "ar": "السعر: تنازلي",
-    "de": "Preis: absteigend"
-  },
-  "Черновик": {
-    "en": "Draft",
-    "zh": "草稿",
-    "pt": "Rascunho",
-    "sr": "Нацрт",
-    "es": "Borrador",
-    "ar": "مسودة",
-    "de": "Entwurf"
-  },
-  "Черновики": {
-    "en": "Drafts",
-    "zh": "草稿",
-    "pt": "Rascunhos",
-    "sr": "Нацрти",
-    "es": "Damas",
-    "ar": "المسودات",
-    "de": "Entwürfe"
   },
   "Что вы ищете?": {
     "en": "What are you looking for?",
@@ -2968,15 +2077,6 @@
     "es": "boceto hasta la puntada final.",
     "ar": "رسم للغرزة النهائية.",
     "de": "Skizze bis zum letzten Stich."
-  },
-  "Это появится только один раз. Создайте единственный аккаунт владельца каталога.": {
-    "en": "This will only appear once. Create a single directory owner account.",
-    "zh": "这只会出现一次。创建单个目录所有者帐户。",
-    "pt": "Isso aparecerá apenas uma vez. Crie uma única conta de proprietário de diretório.",
-    "sr": "Ово ће се појавити само једном. Направите налог власника једног директоријума.",
-    "es": "Esto sólo aparecerá una vez. Cree una cuenta de propietario de directorio único.",
-    "ar": "وهذا سوف يظهر مرة واحدة فقط. إنشاء حساب مالك دليل واحد.",
-    "de": "Dies wird nur einmal angezeigt. Erstellen Sie ein einzelnes Verzeichnisbesitzerkonto."
   },
   "Этот раздел находится в работе.": {
     "en": "This section is a work in progress.",

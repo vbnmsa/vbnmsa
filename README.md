@@ -1,30 +1,42 @@
 # MY PROJECTS
 
-Modern e-commerce website concept for a clothing brand.
+Современная адаптивная витрина бренда одежды LUNE.
 
-## 🌐 Live Demo
+## Live Demo
 
-[Open Website →]https://vbnmsaaaaaaaaaa.vercel.app/ , 
+[Открыть сайт](https://vbnmsaaaaaaaaaa.vercel.app/)
 
-## ✨ Features
+## Возможности
 
-- Responsive design
-- Modern UI
-- Product catalog
-- Product cards
-- Contact form
-- Telegram notifications
-- Mobile adaptation
-- Smooth animations
+- адаптивный интерфейс;
+- каталог и карточки товаров;
+- корзина и избранное;
+- поиск и выбор языка;
+- плавные анимации.
 
-## 🛠 Tech Stack
+## Технологии
 
-- React
-- JavaScript
-- CSS
-- Vite
+- Next.js;
+- React;
+- TypeScript;
+- Tailwind CSS;
+- Vite / vinext.
 
-## 📸 Preview
+## Запуск
 
-![LUNE Preview}-- https://1s4oyld5dc.ucarecd.net/3683221e-f45f-4fbc-b168-e13a097b5cee/
+Требуется Node.js 22 и pnpm 10.
 
+```bash
+pnpm install
+pnpm dev
+```
+
+## Проверка
+
+```bash
+pnpm test
+pnpm lint
+pnpm build:vercel
+```
+
+Каталог витрины хранится в `app/catalog.ts`, а изображения — в `public/images`.
