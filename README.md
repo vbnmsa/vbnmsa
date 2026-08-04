@@ -51,7 +51,7 @@ CUT — сайт современного барбершопа
 
 **Стек:** React · TypeScript · Vite · Tailwind CSS · Lucide React
 
-[Посмотреть код](https://github.com/vbnmsa/CUT)
+[Открыть сайт](https://cutt-psi.vercel.app/)   [Посмотреть код](https://github.com/vbnmsa/CUT)
 <!-- PROJECT:CUT:END -->
 
 
